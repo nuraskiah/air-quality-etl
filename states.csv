@@ -1,0 +1,3897 @@
+state_code,state_name,country_code
+"",,MA
+"",,VA
+"",,LK
+"",,RS
+"",,EH
+"",,KZ
+"",,PN
+"",,KG
+"",,KM
+"",,HR
+"",,BY
+"",,CL
+"",,CW
+"",,IR
+"",,CC
+"",,IL
+"",,SX
+"",,ID
+"",,AQ
+"",,IE
+"",,PH
+"",,MV
+00,Samoa,WS
+00,Niue,NU
+00,Equatorial Guinea,GQ
+00,Czech Republic,CZ
+00,"Macedonia, The Former Yugoslav Republic of",MK
+00,Indonesia,ID
+00,Belarus,BY
+00,Ireland,IE
+00,,NC
+00,Mali,ML
+00,Falkland Islands (Islas Malvinas),FK
+00,Aruba,AW
+00,,PF
+00,British Virgin Islands,VG
+00,Montenegro,ME
+00,Panama,PA
+00,Bosnia and Herzegovina,BA
+00,,BL
+00,,MF
+00,,SX
+00,South Georgia and The South Sandwich Islands,GS
+00,Western Sahara,EH
+00,Zimbabwe,ZW
+00,Zhezqazghan Oblysy,KZ
+00,Turks and Caicos Islands,TC
+00,Lithuania,LT
+00,Philippines,PH
+00,,CW
+00,Cook Islands,CK
+00,Swaziland,SZ
+00,Malaysia,MY
+00,Abkhazia,GE
+00,Ghana,GH
+00,Hong Kong,HK
+00,Armenia,AM
+00,Bāgmatī Zone,NP
+00,Botswana,BW
+00,Kyrgyzstan,KG
+00,Turkmenistan,TM
+00,Muḩāfaz̧atalWafrah,KW
+00,Mauritius,MU
+00,Comoros,KM
+00,Gibraltar,GI
+00,Turkey,TR
+00,Christmas Island,CX
+00,Monaco,MC
+00,Norfolk Island,NF
+00,Palestine,PS
+00,Serbia,RS
+00,Kulyabskaya Oblast',TJ
+001,,PR
+003,,PR
+005,,PR
+007,,PR
+009,,PR
+01,Buenos Aires,AR
+01,Ahuachapán,SV
+01,Agadir,MA
+01,Saint Andrew,GD
+01,Bocas del Toro,PA
+01,Åland,FI
+01,Al-Hasakah,SY
+01,Diekirch,LU
+01,,PF
+01,Ajdovščina,SI
+01,Ad Dawḩah,QA
+01,Azua,DO
+01,Gilbert Islands,KI
+01,Artigas Department,UY
+01,Príncipe,ST
+01,Aichi,JP
+01,,MT
+01,HaDarom,IL
+01,Aizkraukles Rajons,LV
+01,Ahal,TM
+01,Banskobystrický,SK
+01,Abşeron,AZ
+01,Harjumaa,EE
+01,Christ Church Nichola Town,KN
+01,Manicaland,ZW
+01,Āz̄ārbāyjān-e Gharbī,IR
+01,North-Western,ZM
+01,Boa Vista,CV
+01,Brestskaya Voblastsʼ,BY
+01,Akershus,NO
+01,Arhangay,MN
+01,Ānseba,ER
+01,Amazonas,VE
+01,,BF
+01,Ad Daqahlīyah,EG
+01,,SS
+01,Valparaíso,CL
+01,Belize,BZ
+01,Hodh Ech Chargui,MR
+01,Famagusta,CY
+01,Central,BW
+01,Almaty,KZ
+01,Arima,TT
+01,Abruzzo,IT
+01,Clarendon,JM
+01,Drenthe,NL
+01,Saint Anthony,MS
+01,Aiwo,NR
+01,Alta Verapaz,GT
+01,Badakhshan,AF
+01,Agadez,NE
+01,Balzers,LI
+01,Fu-chien,TW
+01,Andijon,UZ
+01,Anjouan,KM
+01,Adygeya,RU
+01,Seenu,MV
+01,Attapu,LA
+01,Cabo Delgado,MZ
+01,Hhohho,SZ
+01,Dakar,SN
+01,Bakool,SO
+01,Central,FJ
+01,Bamingui-Bangoran,CF
+01,An Giang,VN
+01,Bamako,ML
+01,Alto Paraná,PY
+01,Mae Hong Son,TH
+01,Federation of Bosnia and Herzegovina,BA
+01,Anse-la-Raye,LC
+01,Aceh,ID
+01,Barbuda,AG
+01,Abyan,YE
+01,Abra,PH
+01,Federally Administered Tribal Areas,PK
+01,Charlotte,VC
+01,Anhui,CN
+01,Aragatsotn,AM
+01,Chuquisaca,BO
+01,Johor,MY
+01,Atlántida,HN
+01,Alberta,CA
+01,Australian Capital Territory,AU
+01,,PW
+01,Benguela,AO
+01,Pinar del Río,CU
+01,Bjelovarsko-Bilogorska,HR
+01,Amazonas,PE
+01,Rakhine State,MM
+01,Banjul,GM
+01,Bouenza,CG
+01,Chagang-do,KP
+01,Alger,DZ
+01,Belait,BN
+01,Bishkek,KG
+01,Bong,LR
+01,Aguascalientes,MX
+01,Bafatá,GW
+01,Andaman and Nicobar Islands,IN
+01,Ha‘apai,TO
+01,Galápagos,EC
+01,Baden-Württemberg,DE
+01,,ME
+01,Aračinovo,MK
+01,Batha,TD
+01,Bács-Kiskun,HU
+01,Central,PG
+01,Burgenland,AT
+01,Jeju,KR
+01,A‘ana,WS
+01,Ad Dākhilīyah,OM
+01,Acre,BR
+01,Alajuela,CR
+01,Christ Church,BB
+01,Estuaire,GA
+01,Alba,RO
+01,Kosrae,FM
+01,Boaco,NI
+01,,NC
+01,Greater Accra,GH
+01,Al Anbār,IQ
+01,Ali Sabieh,DJ
+01,,SG
+01,Cherkas'ka Oblast',UA
+01,Ascension,SH
+01,Amazonas,CO
+01,Acquaviva,SM
+01,Abū Z̧aby,AE
+01,Eastern Province,SL
+01,Gorno-Badakhshan,TJ
+010,,MH
+010,,VI
+010,,AS
+011,,PR
+013,,PR
+015,,PR
+017,,PR
+019,,PR
+02,Debub,ER
+02,,MT
+02,Adıyaman,TR
+02,São Tomé,ST
+02,Grande Comore,KM
+02,Hiiumaa,EE
+02,Gulf,PG
+02,Macau,MO
+02,Eastern,FJ
+02,Pohnpei,FM
+02,Choluteca,HN
+02,Al Qaşrayn,TN
+02,Ciudad de La Habana,CU
+02,Baja Verapaz,GT
+02,Lubombo,SZ
+02,Diffa,NE
+02,Biltine,TD
+02,Canelones Department,UY
+02,Basilicate,IT
+02,‘Adan,YE
+02,Bali,ID
+02,Champasak,LA
+02,Anse Boileau,SC
+02,Alūksnes Rajons,LV
+02,Badghis Province,AF
+02,Al Başrah,IQ
+02,Cochabamba,BO
+02,Balkan,TM
+02,Balochistān,PK
+02,,SS
+02,Hanover Parish,JM
+02,Cabañas,SV
+02,Latakia,SY
+02,Khatlon,TJ
+02,Kao-hsiung,TW
+02,,ME
+02,Al Bāḩah,SA
+02,Ararat,AM
+02,Bratislavský,SK
+02,Carazo,NI
+02,KwaZulu-Natal,ZA
+02,Bayanhongor,MN
+02,New South Wales,AU
+02,Alagoas,BR
+02,Quinara,GW
+02,HaMerkaz,IL
+02,Andhra Pradesh,IN
+02,Blekinge Län,SE
+02,Almaty Qalasy,KZ
+02,,NC
+02,Anzoátegui,VE
+02,Azuay,EC
+02,British Columbia,CA
+02,Hodh El Gharbi,MR
+02,Gaza,MZ
+02,Chüy,KG
+02,Arad,RO
+02,Chin State,MM
+02,Midlands,ZW
+02,Buxoro,UZ
+02,Saint Anne Sandy Point,KN
+02,Kâmpóng Cham,KH
+02,Aust-Agder,NO
+02,Haut-Ogooué,GA
+02,Baranya,HU
+02,Chiriquí,PA
+02,Homyelʼskaya Voblastsʼ,BY
+02,Al Bāţinah,OM
+02,Northern Province,SL
+02,Balqa,JO
+02,Lower River,GM
+02,,GE
+02,Amambay,PY
+02,Zhejiang,CN
+02,Provincie Friesland,NL
+02,Kyrenia,CY
+02,Ashanti,GH
+02,Kedah,MY
+02,Parròquia de Canillo,AD
+02,Brava,CV
+02,Al ‘Āşimah,KW
+02,Basse-Kotto,CF
+02,Saint David,GD
+02,Antioquia,CO
+02,Carinthia,AT
+02,Aiga-i-le-Tai,WS
+02,Ağcabǝdi,AZ
+02,Grevenmacher,LU
+02,Saint Andrew,BB
+02,Eschen,LI
+02,Pwani,TZ
+02,Line Islands,KI
+02,Saint Andrew,VC
+02,Republika Srpska,BA
+02,Beltinci,SI
+02,Agusan del Norte,PH
+02,Copperbelt Province,ZM
+02,Cartago,CR
+02,Aveiro,PT
+02,Al Ghuwayrīyah,QA
+02,Baja California,MX
+02,Catamarca,AR
+02,Chiesanuova,SM
+02,Ancash,PE
+02,Brodsko-Posavska,HR
+02,,PF
+02,Aisén del General Carlos Ibáñez del Campo,CL
+02,Tongatapu,TO
+02,Akita,JP
+02,Hame,FI
+02,Bié,AO
+02,Cayo,BZ
+02,Coast,KE
+02,,PW
+02,Banaadir,SO
+02,Saint Andrew,DM
+02,Anabar,NR
+02,,BF
+02,Baoruco,DO
+02,Al Hoceïma,MA
+02,Chiang Mai,TH
+02,Chernihivs'ka Oblast',UA
+02,Bavaria,DE
+02,Al Baḩr al Aḩmar,EG
+02,Équateur,CD
+02,‘Ajmān,AE
+02,Saint Helena,SH
+02,Brunei and Muara,BN
+020,,AS
+020,,VI
+021,,PR
+023,,PR
+025,,PR
+027,,PR
+029,,PR
+03,Gelderland,NL
+03,Bayan-Ölgiy,MN
+03,Bled,SI
+03,District de Kerguelen,TF
+03,Cabinda,AO
+03,Calabria,IT
+03,Mohéli,KM
+03,Northern Territory,AU
+03,Dosso,NE
+03,Colón,HN
+03,Nord-Ouest,HT
+03,Apurímac,PE
+03,Bến Tre,VN
+03,Chernivets'ka Oblast',UA
+03,Al Qayrawān,TN
+03,Annobón,GQ
+03,Chahār Maḩāll va Bakhtīārī,IR
+03,Northern District,IL
+03,Houaphan,LA
+03,Hamgyŏng-namdo,KP
+03,Central River,GM
+03,Matanzas,CU
+03,Barahona,DO
+03,Batna,DZ
+03,Bari,SO
+03,Free State,ZA
+03,Afyonkarahisar,TR
+03,Amapá,BR
+03,Atua,WS
+03,Apure,VE
+03,Baghlān,AF
+03,,NC
+03,,SS
+03,Assaba,MR
+03,Ağdam,AZ
+03,Aomori,JP
+03,T'ai-pei,TW
+03,Al Mahrah,YE
+03,Luxembourg,LU
+03,Saint George Basseterre,KN
+03,Lower Austria,AT
+03,Vava‘u,TO
+03,Jalal-Abad,KG
+03,Chalatenango,SV
+03,Al Muthanná,IQ
+03,Saint David,VC
+03,Al Jumaylīyah,QA
+03,Cerro Largo Department,UY
+03,Dodoma,TZ
+03,Saint David,DM
+03,Castries,LC
+03,Corozal,BZ
+03,Mashonaland Central,ZW
+03,Larnaca,CY
+03,Diourbel,SN
+03,Domagnano,SM
+03,El Beni,BO
+03,Bremen,DE
+03,Košický,SK
+03,Tristan da Cunha,SH
+03,Guanacaste,CR
+03,North-West Frontier,PK
+03,Kelantan,MY
+03,Chiang Rai,TH
+03,Gamprin,LI
+03,Ghanzi,BW
+03,Kâmpóng Chhnăng,KH
+03,Gävleborgs Län,SE
+03,Quneitra,SY
+03,Leninobod,TJ
+03,,MT
+03,Hamilton city,BM
+03,Chuuk,FM
+03,Dubayy,AE
+03,Agusan del Sur,PH
+03,Dubrovačko-Neretvanska,HR
+03,,PW
+03,Altay,RU
+03,Parròquia d'Encamp,AD
+03,Inhambane,MZ
+03,Ayeyarwady,MM
+03,Argeş,RO
+03,Temburong,BN
+03,Beja,PT
+03,Békés,HU
+03,Al Buḩayrah,EG
+03,Baja California Sur,MX
+03,Northern,FJ
+03,Chimaltenango,GT
+03,Malaita,SB
+03,Coclé,PA
+03,Saint Peter,MS
+03,Jiangxi,CN
+03,Hrodzyenskaya Voblastsʼ,BY
+03,Southern Province,SL
+03,North Jeolla,KR
+03,Ida-Virumaa,EE
+03,Azizal,MA
+03,,ME
+03,Daşoguz,TM
+03,Aqmola,KZ
+03,Manitoba,CA
+03,Arauca,CO
+03,Mayaro,TT
+03,Milne Bay,PG
+03,Manzini,SZ
+03,Al Wusţá,OM
+03,,BF
+03,Saint George,GD
+03,Saint George,AG
+03,Kayes,ML
+03,Bengkulu,ID
+03,,PF
+03,Haute-Kotto,CF
+03,Farg ona,UZ
+03,Moyen-Ogooué,GA
+03,Brong-Ahafo Region,GH
+03,Bolívar,EC
+03,Chaco,AR
+03,Antofagasta,CL
+03,Chinandega,NI
+03,Assam,IN
+03,Western,ZM
+03,Balvu Rajons,LV
+03,Armavir,AM
+03,Debubawī Kʼeyih Bahrī,ER
+030,,VI
+030,,MH
+031,,PR
+033,,PR
+035,,PR
+037,,PR
+039,,PR
+04,Ağrı Province,TR
+04,Järvamaa,EE
+04,Heredia,CR
+04,Cañar,EC
+04,Braga,PT
+04,Ağdaş,AZ
+04,Southern,ZM
+04,Caaguazú,PY
+04,Shiselweni,SZ
+04,Ajaria,GE
+04,Constantine,DZ
+04,Al Fayyūm,EG
+04,Arequipa,PE
+04,Bioko Norte,GQ
+04,Kgalagadi,BW
+04,Yap,FM
+04,Atlántico,CO
+04,Gash Barka,ER
+04,Hamburg,DE
+04,Estado do Amazonas,BR
+04,T'ai-wan,TW
+04,Nicosia,CY
+04,Gegharkʼunikʼ,AM
+04,Chiquimula,GT
+04,Oio,GW
+04,Mauren,LI
+04,Saint James,BB
+04,Kasaï-Oriental,CD
+04,Gorgol,MR
+04,Mashonaland East,ZW
+04,Northern,PG
+04,Chubut,AR
+04,Ash Sharqīyah,OM
+04,Choiseul,LC
+04,,PF
+04,Comayagua,HN
+04,Mambéré-Kadéï,CF
+04,Dnipropetrovs'ka Oblast',UA
+04,Saint George,DM
+04,Colón,PA
+04,Al Aḩmadī,KW
+04,New Brunswick,CA
+04,La Paz,BO
+04,Bundesland Oberösterreich,AT
+04,Maradi,NE
+04,Bauskas Rajons,LV
+04,Upper River,GM
+04,Colonia Department,UY
+04,Saint John,AG
+04,Fa‘asaleleaga,WS
+04,Jiangsu,CN
+04,Punjab,PK
+04,Nitriansky,SK
+04,Al Khawr,QA
+04,Lebap,TM
+04,Altayskiy Kray,RU
+04,Kuopio,FI
+04,,ME
+04,Obock,DJ
+04,,BF
+04,Araucanía,CL
+04,Saint John,GD
+04,Beyrouth,LB
+04,Western Area,SL
+04,Bohinj,SI
+04,Ḩaḑramawt,YE
+04,Mahilyowskaya Voblastsʼ,BY
+04,H̱efa,IL
+04,Isla de la Juventud,CU
+04,Orange Walk,BZ
+04,Est,CM
+04,Melaka,MY
+04,Rotuma,FJ
+04,Kachin State,MM
+04,Maio,CV
+04,,SS
+04,Bacău,RO
+04,Saint George,VC
+04,Cuando Cubango,AO
+04,Jakarta Raya,ID
+04,Ben Slimane,MA
+04,Naryn,KG
+04,Campania,IT
+04,Parròquia de la Massana,AD
+04,Al Qādisīyah,IQ
+04,Ngounié,GA
+04,Queensland,AU
+04,Mopti,ML
+04,,PW
+04,,TJ
+04,Saint George Gingerland,KN
+04,Kouilou,CG
+04,Khétt Kâmpóng Spœ,KH
+04,Cuscatlán,SV
+04,Manchester,JM
+04,Faetano,SM
+04,Buskerud,NO
+04,Ar-Raqqah,SY
+04,Sīstān va Balūchestān,IR
+04,Aragua,VE
+04,Aqtöbe,KZ
+04,Istarska,HR
+04,Berovo,MK
+04,Campeche,MX
+04,Dajabón,DO
+04,,GL
+04,Tutong,BN
+04,Groningen,NL
+04,Al Fujayrah,AE
+04,,MT
+04,Borsod-Abaúj-Zemplén,HU
+04,Bay,SO
+04,Maputo Province,MZ
+04,Iringa,TZ
+04,Anibare,NR
+04,Nan,TH
+04,Chontales,NI
+04,Central,GH
+04,Conakry,GN
+04,Chiba,JP
+040,,AS
+040,,MH
+041,,PR
+043,,PR
+045,,PR
+047,,PR
+049,,PR
+05,Jilin,CN
+05,Caazapá,PY
+05,Western,GM
+05,Carchi,EC
+05,Newfoundland and Labrador,CA
+05,Ayacucho,PE
+05,Al Madīnah,SA
+05,Bihor,RO
+05,Parròquia d'Ordino,AD
+05,Shabwah,YE
+05,Donets'ka Oblast',UA
+05,Camagüey,CU
+05,Western,FJ
+05,Nyanga,GA
+05,Haut-Mbomou,CF
+05,Darién,PA
+05,,PF
+05,Tambacounda,SN
+05,Bāmīān,AF
+05,Jambi,ID
+05,Bragança,PT
+05,Cao Bằng,VN
+05,South Australia,AU
+05,Emilia-Romagna,IT
+05,Bioko Sur,GQ
+05,Saint Mary,AG
+05,Borovnica,SI
+05,Stann Creek,BZ
+05,Lagos,NG
+05,North Chungcheong,KR
+05,Saint Mark,GD
+05,Lamphun,TH
+05,Astana Qalasy,KZ
+05,Negeri Sembilan,MY
+05,Mont-Liban,LB
+05,Kymi,FI
+05,Kigoma,TZ
+05,Bumthang,BT
+05,Albay,PH
+05,Kotaykʼ,AM
+05,Salzburg,AT
+05,Lékoumou,CG
+05,Galguduud,SO
+05,Kayin State,MM
+05,Paul,CV
+05,Brakna,MR
+05,Tadjourah,DJ
+05,Amur,RU
+05,,PW
+05,Finnmark,NO
+05,Gotlands Län,SE
+05,Estelí,NI
+05,Horad Minsk,BY
+05,Ehime,JP
+05,Córdoba,AR
+05,Limassol,CY
+05,Sindh,PK
+05,Laamu,MV
+05,Baiti,NR
+05,Saint James Windwa,KN
+05,Guéra,TD
+05,Bistrica,MK
+05,Ségou,ML
+05,Cuanza Norte,AO
+05,Raʼs al Khaymah,AE
+05,Hesse,DE
+05,Eastern Cape,ZA
+05,Planken,LI
+05,Budapest,HU
+05,Beni Mellal,MA
+05,Bolama,GW
+05,,BF
+05,Kgatleng,BW
+05,Al Gharbīyah,EG
+05,Kohgīlūyeh va Būyer Aḩmad,IR
+05,Xorazm,UZ
+05,Durazno,UY
+05,Jõgevamaa,EE
+05,Central,ZM
+05,,GL
+05,Tel Aviv,IL
+05,Mary,TM
+05,Kâmpóng Thum,KH
+05,La Libertad,SV
+05,As Sulaymānīyah,IQ
+05,Maʼākel,ER
+05,,SS
+05,Chandīgarh,IN
+05,Southern Highlands,PG
+05,Oruro,BO
+05,Bimini,BS
+05,Cēsu Rajons,LV
+05,Amasya Province,TR
+05,Nairobi Area,KE
+05,Littoral,CM
+05,El Progreso,GT
+05,Barinas,VE
+05,Sofala,MZ
+05,Saint Patrick,VC
+05,,ME
+05,Copán,HN
+05,As-Suwayda,SY
+05,Mashonaland West,ZW
+05,Limburg,NL
+05,Chiapas,MX
+05,Karlovačka,HR
+05,Atacama,CL
+05,Al Jahrāʼ,KW
+05,Eastern,GH
+05,Dennery,LC
+05,,MT
+05,Bahia,BR
+05,Saint John,DM
+05,Prešovský,SK
+05,Port-of-Spain,TT
+05,Ağstafa,AZ
+05,Saint John,BB
+05,Fiorentino,SM
+05,Anse Royale,SC
+050,,AS
+050,,MH
+051,,PR
+053,,PR
+054,,PR
+055,,PR
+057,,PR
+059,,PR
+06,Ogooué-Ivindo,GA
+06,Daraa,SY
+06,Borgo Maggiore,SM
+06,,MT
+06,,ME
+06,Gedo,SO
+06,,BF
+06,Yerushalayim,IL
+06,Tasmania,AU
+06,Lorri,AM
+06,,SS
+06,Saint Joseph,BB
+06,Bistriţa-Năsăud,RO
+06,Pahang,MY
+06,Grenadines,VC
+06,Lampang,TH
+06,Qinghai,CN
+06,Central,PY
+06,Kémo,CF
+06,Limón,CR
+06,Kinshasa,CD
+06,Masqaţ,OM
+06,Sikasso,ML
+06,Lapponia,FI
+06,North Brabant,NL
+06,,GL
+06,Dikhil,DJ
+06,Minskaya Voblastsʼ,BY
+06,,RU
+06,Likouala,CG
+06,Ivano-Frankivs'ka Oblast',UA
+06,Farāh,AF
+06,Saint Patrick,GD
+06,Saint Paul,AG
+06,Cortés,HN
+06,Kanem,TD
+06,Liban-Sud,LB
+06,Ağsu,AZ
+06,Bío-Bío,CL
+06,Atyraū,KZ
+06,Pando,BO
+06,Cuanza Sul,AO
+06,Saint Joseph,DM
+06,East Aimak,MN
+06,Centro Sur,GQ
+06,Bolívar,VE
+06,Flores,UY
+06,Guadalcanal,SB
+06,Va‘a-o-Fonoti,WS
+06,Ash Sharqīyah,SA
+06,Talas,KG
+06,Médéa,DZ
+06,Kweneng,BW
+06,Cat Island,BS
+06,Matabeleland North,ZW
+06,Tahoua,NE
+06,Steiermark,AT
+06,Hedmark,NO
+06,Hwanghae-namdo,KP
+06,Bovec,SI
+06,Trarza,MR
+06,Jundūbah,TN
+06,Artibonite,HT
+06,Ar Rayyān,QA
+06,Corrientes,AR
+06,Ash Shāriqah,AE
+06,Hallands Län,SE
+06,Cajamarca,PE
+06,Herrera,PA
+06,La Paz,SV
+06,Fukui,JP
+06,Lower Saxony,DE
+06,Boulemane,MA
+06,Dādra and Nagar Haveli,IN
+06,Azad Kashmir,PK
+06,Ruggell,LI
+06,,PW
+06,Granada,NI
+06,,GE
+06,Csongrád,HU
+06,Western,PG
+06,Parròquia de Sant Julià de Lòria,AD
+06,Ceará,BR
+06,Bābil,IQ
+06,Namangan,UZ
+06,Escuintla,GT
+06,Friuli,IT
+06,Kilimanjaro,TZ
+06,Cacheu,GW
+06,Saint George,BM
+06,Gros-Islet,LC
+06,Toledo,BZ
+06,Chhukha,BT
+06,Chihuahua,MX
+06,Gauteng,ZA
+06,Northern,GH
+06,Castelo Branco,PT
+06,Bitola,MK
+06,Gangwon,KR
+06,Duarte,DO
+06,Koprivničko-Križevačka,HR
+06,Trenčiansky,SK
+06,Saint John Capesterre,KN
+06,Kayah State,MM
+06,Eastern,ZM
+06,Semēnawī Kʼeyih Bahrī,ER
+06,Alexandria,EG
+06,Antique,PH
+06,Chimborazo,EC
+06,Nampula,MZ
+06,Paphos,CY
+061,,PR
+063,,PR
+065,,PR
+067,,PR
+069,,PR
+07,Al Ismā‘īlīyah,EG
+07,Perak,MY
+07,Hwanghae-bukto,KP
+07,Kié-Ntem,GQ
+07,Gagaifomauga,WS
+07,Kharkivs'ka Oblast',UA
+07,San Marino,SM
+07,La Unión,SV
+07,,MT
+07,Baghdād,IQ
+07,North Rhine-Westphalia,DE
+07,Guatemala,GT
+07,Niassa,MZ
+07,Los Santos,PA
+07,,BF
+07,Kândal,KH
+07,Mpumalanga,ZA
+07,Casablanca,MA
+07,Torba,VU
+07,Matabeleland South,ZW
+07,North Bank,GM
+07,Brda,SI
+07,Oudômxai,LA
+07,Bundesland Tirol,AT
+07,Fukuoka,JP
+07,Fujian,CN
+07,Thiès,SN
+07,Shirak,AM
+07,Saint Luke,DM
+07,,PW
+07,East Gobi Aymag,MN
+07,Antalya Province,TR
+07,Ogooué-Lolo,GA
+07,Centre,HT
+07,Koulikoro,ML
+07,Bataan,PH
+07,Mostaganem,DZ
+07,Coimbra,PT
+07,Portland,JM
+07,Umm al Qaywayn,AE
+07,,KW
+07,Chirang,BT
+07,Musandam,OM
+07,Cunene,AO
+07,Northern Areas,PK
+07,Ysyk-Köl,KG
+07,Lac,TD
+07,Saint John Figtree,KN
+07,Lobaye,CF
+07,Puntarenas,CR
+07,Florida Department,UY
+07,Ribeira Grande,CV
+07,Nova Scotia,CA
+07,Callao,PE
+07,Mikkeli,FI
+07,Bougainville,PG
+07,Batys Qazaqstan,KZ
+07,Central Java,ID
+07,Saint Lucy,BB
+07,Schaan,LI
+07,,ME
+07,Balearic Islands,ES
+07,Jämtlands Län,SE
+07,Saint Peter,AG
+07,Concepción,PY
+07,Fārs Province,IR
+07,Laborie,LC
+07,Coquimbo,CL
+07,Trnavský,SK
+07,Adrar,MR
+07,Isabel,SB
+07,Latium,IT
+07,Läänemaa,EE
+07,Phrae,TH
+07,El Paraíso,HN
+07,Ciego de Ávila,CU
+07,Hiiraan,SO
+07,Hordaland,NO
+07,Djibouti,DJ
+07,Zinder,NE
+07,Alibori,BJ
+07,Botoşani,RO
+07,Parròquia d'Andorra la Vella,AD
+07,,SS
+07,Distrito Federal,BR
+07,North-West Province,CM
+07,Coahuila,MX
+07,Victoria,AU
+07,Northern,ZM
+07,Daugavpils Rajons,LV
+07,Distrito Federal,AR
+07,Jinotega,NI
+07,Deir ez-Zor,SY
+07,Krapinsko-Zagorska,HR
+07,,GL
+07,Lindi,TZ
+07,Nabatîyé,LB
+07,Carabobo,VE
+07,Delhi,IN
+07,North Holland,NL
+07,Astrakhan,RU
+07,Vitsyebskaya Voblastsʼ,BY
+07,Niari,CG
+07,Navoiy,UZ
+07,Əli Bayramli,AZ
+07,Faryab Province,AF
+07,Cotopaxi,EC
+07,Potosí,BO
+07,Tombali,GW
+071,,PR
+073,,PR
+075,,PR
+077,,PR
+079,,PR
+08,Lavalleja Department,UY
+08,Artvin Province,TR
+08,Bogdanci,MK
+08,Palauli,WS
+08,Colima,MX
+08,Évora,PT
+08,Al Ḩudaydah,YE
+08,Daga,BT
+08,Tombouctou,ML
+08,Ghaznī,AF
+08,Dahūk,IQ
+08,Madīnat ash Shamāl,QA
+08,Vorarlberg,AT
+08,,BF
+08,Møre og Romsdal,NO
+08,San José,CR
+08,Kherson Oblast,UA
+08,Astara,AZ
+08,Northern Cape,ZA
+08,Perlis,MY
+08,Islāmābād,PK
+08,Micoud,LC
+08,Batanes,PH
+08,Logone Occidental,TD
+08,Luapula,ZM
+08,Parròquia d'Escaldes-Engordany,AD
+08,Cojedes,VE
+08,,SS
+08,Rhineland-Palatinate,DE
+08,Plateaux,CG
+08,Saint Mark,DM
+08,Z̧ufār,OM
+08,Dakhlet Nouadhibou,MR
+08,Cienfuegos,CU
+08,Osh,KG
+08,,PW
+08,Syunikʼ,AM
+08,Cusco,PE
+08,Litoral,GQ
+08,Liguria,IT
+08,Žilinský,SK
+08,Qashqadaryo,UZ
+08,Sal,CV
+08,,KW
+08,Mbomou,CF
+08,Ouest,CM
+08,Saint Andrew,JM
+08,East Java,ID
+08,Middle Govĭ,MN
+08,Francisco Morazán,HN
+08,Chimbu,PG
+08,Western Australia,AU
+08,Béqaa,LB
+08,Bashkortostan,RU
+08,Masvingo,ZW
+08,Lääne-Virumaa,EE
+08,Chaouen,MA
+08,Dobeles Rajons,LV
+08,Santa Cruz,BO
+08,Cordillera,PY
+08,Saint Mary Cayon,KN
+08,Rif-dimashq,SY
+08,Al Qaşīm,SA
+08,Al Jīzah,EG
+08,Jönköpings Län,SE
+08,Mara,TZ
+08,Libertador General Bernardo OʼHiggins,CL
+08,Tete,MZ
+08,Makira,SB
+08,Espírito Santo,BR
+08,Ontario,CA
+08,Niamey,NE
+08,Kaôh Kŏng,KH
+08,Entre Ríos,AR
+08,Oulu,FI
+08,Atakora,BJ
+08,León,NI
+08,Morazán,SV
+08,Caquetá,CO
+08,Bas-Congo,CD
+08,Panamá,PA
+08,Montegiardino,SM
+08,Gīlān,IR
+08,Fejér,HU
+08,,MT
+08,El Oro,EC
+08,Brežice,SI
+08,,ME
+08,Espaillat,DO
+08,Brăila,RO
+08,Tak,TH
+08,Ogooué-Maritime,GA
+08,Ličko-Senjska,HR
+08,Middle Juba,SO
+08,North East,BW
+08,Heilongjiang,CN
+08,Beau Vallon,SC
+08,Huehuetenango,GT
+08,Volta,GH
+08,Bayqongyr Qalasy,KZ
+08,Huambo,AO
+08,Mandalay,MM
+08,Arta,DJ
+08,Saint Michael,BB
+08,Fukushima,JP
+08,Schellenberg,LI
+080,,MH
+081,,PR
+083,,PR
+085,,PR
+087,,PR
+089,,PR
+09,Kalmar Län,SE
+09,,KW
+09,Hamadān,IR
+09,Pohjois-Karjala,FI
+09,Utrecht,NL
+09,Dzavhan,MN
+09,Gangwon,KP
+09,Western,KE
+09,,ME
+09,Maldonado Department,UY
+09,Saarland,DE
+09,Wele-Nzas,GQ
+09,Woleu-Ntem,GA
+09,Liban-Nord,LB
+09,Međimurska,HR
+09,Geylegphug,BT
+09,Gracias a Dios,HN
+09,Saint Ann,JM
+09,Nimba,LR
+09,Gujarāt,IN
+09,,SS
+09,,PW
+09,Győr-Moson-Sopron,HU
+09,Ðồng Tháp,VN
+09,Saint Patrick,DM
+09,Opstina Bogomila,MK
+09,Eastern Highlands,PG
+09,Saint Peter,BB
+09,Lusaka,ZM
+09,Cauca,CO
+09,Braşov,RO
+09,Soufrière,LC
+09,South-West Province,CM
+09,Delta Amacuro,VE
+09,Lower Juba,SO
+09,Nana-Mambéré,CF
+09,Krâchéh,KH
+09,Faro,PT
+09,Karakalpakstan,UZ
+09,,MT
+09,Nordland,NO
+09,Bulawayo,ZW
+09,Tarija,BO
+09,Huíla,AO
+09,Ghowr,AF
+09,Western,GH
+09,Mangghystaū,KZ
+09,Khmel'nyts'ka Oblast',UA
+09,Saint Paul Capesterre,KN
+09,San Miguel,SV
+09,Sukhothai,TH
+09,Belgorod,RU
+09,Logone Oriental,TD
+09,Umm Şalāl,QA
+09,El Jadida,MA
+09,Aydın Province,TR
+09,Brezovica,SI
+09,Madriz,NI
+09,Pulau Pinang,MY
+09,Izabal,GT
+09,Bubanza,BI
+09,Oran,DZ
+09,Atlantique,BJ
+09,The Federal District,MX
+09,Nord,HT
+09,Bundesland Wien,AT
+09,,OM
+09,Tillabéri,NE
+09,Huancavelica,PE
+09,Temotu,SB
+09,Mbeya,TZ
+09,Aleppo,SY
+09,,BF
+09,Prince Edward Island,CA
+09,Serravalle,SM
+09,Zambézia,MZ
+09,Esmeraldas,EC
+09,Karak,JO
+09,Limpopo,ZA
+09,Dhī Qār,IQ
+09,South East,BW
+09,Henan,CN
+09,Baki,AZ
+09,Independencia,DO
+09,Batken,KG
+09,Tagant,MR
+09,Tavush,AM
+09,Gulbenes Rajons,LV
+09,Fatick,SN
+09,Granma,CU
+09,San Blas,PA
+09,Lombardy,IT
+09,Batangas,PH
+09,Formosa,AR
+09,Al Minūfīyah,EG
+09,Gao,ML
+09,Gifu,JP
+09,Triesen,LI
+090,,MH
+091,,PR
+093,,PR
+095,,PR
+097,,PR
+099,,PR
+10,Ha,BT
+10,Bel Ombre,SC
+10,Yogyakarta,ID
+10,San Fernando,TT
+10,Bucureşti,RO
+10,Adamaoua,CM
+10,Brjansk,RU
+10,Maniema,CD
+10,Ongtüstik Qazaqstan,KZ
+10,Durango,MX
+10,Barima-Waini,GY
+10,Aakkâr,LB
+10,Sangha,CG
+10,,ME
+10,Haryāna,IN
+10,Montevideo,UY
+10,Saint Philip,BB
+10,Southern,BW
+10,Saint Catherine,JM
+10,The Marches,IT
+10,Quebec,CA
+10,,KG
+10,,BF
+10,Jujuy,AR
+10,Diyala,IQ
+10,Harare,ZW
+10,Exuma,BS
+10,Huanuco,PE
+10,Zeeland,NL
+10,Madeira,PT
+10,Balıkesir Province,TR
+10,Samarqand,UZ
+10,Gabú,GW
+10,Vayotsʼ Dzor,AM
+10,Managua,NI
+10,Govĭ-Altay,MN
+10,Môndól Kiri,KH
+10,Al Maḩwīt,YE
+10,Tuamasaga,WS
+10,Kirovohrads'ka Oblast',UA
+10,,OM
+10,Gumma,JP
+10,Guidimaka,MR
+10,East New Britain,PG
+10,Vieux-Fort,LC
+10,Manica,MZ
+10,,SS
+10,Dalarnas Län,SE
+10,El Kelaa des Srarhna,MA
+10,Borgou,BJ
+10,Īlām,IR
+10,Mudug,SO
+10,Brokopondo,SR
+10,Triesenberg,LI
+10,Morogoro,TZ
+10,Ar Riyāḑ,SA
+10,,KE
+10,Uttaradit,TH
+10,Al Minyā,EG
+10,Magallanes y Antártica Chilena,CL
+10,Hama Governorate,SY
+10,La Altagracia,DO
+10,Bururi,BI
+10,Helmand,AF
+10,Chatham Islands,NZ
+10,Saïda,DZ
+10,Guantánamo,CU
+10,Intibucá,HN
+10,San Salvador,SV
+10,,PW
+10,Benguet,PH
+10,Ijuw,NR
+10,Cesar,CO
+10,Jalapa,GT
+10,Veraguas,PA
+10,Upper East,GH
+10,,ZM
+10,Nord-Trøndelag,NO
+10,North-West,ZA
+10,Kidal,ML
+10,Balakǝn,AZ
+10,Guairá,PY
+10,Schleswig-Holstein,DE
+10,Osječko-Baranjska,HR
+10,Sagain,MM
+10,Busan,KR
+10,,GD
+10,Nord-Est,HT
+10,Saint Paul Charlestown,KN
+10,,SB
+10,Kaolack,SN
+10,,MT
+10,Guayas,EC
+10,Hajdú-Bihar,HU
+10,Saint Paul,DM
+10,Jēkabpils Rajons,LV
+10,Sinoe,LR
+10,Al Wakrah,QA
+10,Berea District,LS
+10,Hebei,CN
+10,Turku ja Pori,FI
+10096138,,XK
+10096859,,XK
+10097357,,XK
+10097358,,XK
+10097359,,XK
+10097360,,XK
+10097361,,XK
+101,,PR
+103,,PR
+10346796,,KY
+10375968,,KY
+10375969,,KY
+10375970,,KY
+10375971,,KY
+10375972,,KY
+105,,PR
+107,,PR
+109,,PR
+11,Heves,HU
+11,La Habana,CU
+11,Saint Thomas,BB
+11,Imbabura,EC
+11,,FR
+11,North West,BW
+11,Hormozgān Province,IR
+11,Požeško-Slavonska,HR
+11,Pärnumaa,EE
+11,Eastern Province,RW
+11,,MT
+11,Ouaka,CF
+11,Mtwara,TZ
+11,Oppland,NO
+11,Falcón,VE
+11,La Pampa,AR
+11,Tiris Zemmour,MR
+11,Al Qāhirah,EG
+11,Islas de la Bahía,HN
+11,Avtonomna Respublika Krym,UA
+11,Paysandú,UY
+11,,BF
+11,Buzău,RO
+11,Himāchal Pradesh,IN
+11,Ica,PE
+11,Upper West,GH
+11,Er Rachidia,MA
+11,Vaduz,LI
+11,Bosilovo,MK
+11,Brandenburg,DE
+11,Yerevan,AM
+11,São Vicente,CV
+11,Ouest,HT
+11,Pavlodar,KZ
+11,Jutiapa,GT
+11,Hiroshima,JP
+11,Arbīl,IQ
+11,Masaya,NI
+11,Western Cape,ZA
+11,Hentiy,MN
+11,Choiseul,SB
+11,Herat Province,AF
+11,Bǝrdǝ,AZ
+11,Kolda Region,SN
+11,Buryatiya,RU
+11,West Kalimantan,ID
+11,Saint Peter Basseterre,KN
+11,Grand Bassa County,LR
+11,Commewijne,SR
+11,Shan State,MM
+11,Pool,CG
+11,Lhuntshi,BT
+11,Maputo,MZ
+11,Jarayān al Bāţinah,QA
+11,Bissau,GW
+11,Saint Elizabeth,JM
+11,Centre,CM
+11,Chocó,CO
+11,Homs,SY
+11,Sarawak,MY
+11,Saint Peter,DM
+11,Mato Grosso do Sul,BR
+11,‘Asīr,SA
+11,Celje,SI
+11,Guanajuato,MX
+11,Jelgava,LV
+11,Bohol,PH
+11,P'yŏngan-bukto,KP
+11,Dhamār,YE
+11,Itapúa,PY
+11,Nord-Kivu,CD
+11,Maule,CL
+11,Kamphaeng Phet,TH
+11,South Holland,NL
+11,Cascade,SC
+11,,KE
+11,Cankuzo,BI
+11,Vaisigano,WS
+11,,ME
+11,East Sepik,PG
+11,Baalbek-Hermel,LB
+11,Saskatchewan,CA
+11,,PA
+11,Guarda,PT
+11,Cuyuni-Mazaruni,GY
+11,Uusimaa,FI
+11,Hunan Province,CN
+11,,PW
+11,Santa Ana,SV
+11,Elías Piña,DO
+11,Seoul,KR
+11,,OM
+11,Butha-Buthe District,LS
+11,Abuja Federal Capital Territory,NG
+11,Collines,BJ
+11,Tobago,TT
+11,Molise,IT
+11,Bilecik Province,TR
+110,,MH
+110,,MP
+111,,PR
+11205389,,AI
+11205392,,AI
+11205393,,AI
+11205396,,AI
+11205433,,AI
+11205436,,AI
+11205437,,AI
+11205438,,AI
+11205439,,AI
+11205440,,AI
+11205441,,AI
+11205442,,AI
+11205443,,AI
+11205444,,AI
+113,,PR
+115,,PR
+117,,PR
+119,,PR
+12,San Vicente,SV
+12,Beylǝqan,AZ
+12,Matagalpa,NI
+12,Jammu and Kashmīr,IN
+12,La Rioja,AR
+12,Brazzaville,CG
+12,Biombo,GW
+12,Kouffo,BJ
+12,Loja,EC
+12,La Romana,DO
+12,Qaraghandy,KZ
+12,Tanintharyi,MM
+12,Sud-Kivu,CD
+12,Petén,GT
+12,Caraş-Severin,RO
+12,La Paz,HN
+12,Grand Cape Mount,LR
+12,Bingöl Province,TR
+12,Põlvamaa,EE
+12,Coronie,SR
+12,Vaasa,FI
+12,Holguín,CU
+12,Rennell and Bellona,SB
+12,,KE
+12,Sétif,DZ
+12,,PA
+12,Ouham,CF
+12,Idlib,SY
+12,Bukidnon,PH
+12,Mecklenburg-Vorpommern,DE
+12,Yukon Territory,CA
+12,,PW
+12,Kigali City,RW
+12,Leribe District,LS
+12,,BF
+12,Sud,HT
+12,Demerara-Mahaica,GY
+12,Essaouira,MA
+12,Incheon,KR
+12,Black River,MU
+12,Komárom-Esztergom,HU
+12,Inchiri,MR
+12,Córdoba,CO
+12,Junín,PE
+12,,ME
+12,Misiones,PY
+12,Río Negro,UY
+12,Mwanza,TZ
+12,,MT
+12,Hubei,CN
+12,Sanaag,SO
+12,Jelgavas Rajons,LV
+12,Saint Thomas Lowland,KN
+12,Región Metropolitana,CL
+12,Al Qalyūbīyah,EG
+12,Malanje,AO
+12,,OM
+12,Občina Cerklje na Gorenjskem,SI
+12,P'yŏngyang-si,KP
+12,Primorsko-Goranska,HR
+12,Phitsanulok,TH
+12,Hovd,MN
+12,Karbalāʼ,IQ
+12,Brvenica,MK
+12,Oslo,NO
+12,Tafielah,JO
+12,Extreme-Nord,CM
+12,,RU
+12,Mongar,BT
+12,Ouaddaï,TD
+12,Selangor,MY
+12,Poŭthĭsăt,KH
+12,Kronobergs Län,SE
+12,Guárico,VE
+12,Ziguinchor,SN
+12,Saint James,JM
+12,Hokkaidō,JP
+12,Piedmont,IT
+12,Misto Kyyiv,UA
+12,Madang,PG
+12,Cibitoke,BI
+12,Guerrero,MX
+12,Surxondaryo,UZ
+12,South Kalimantan,ID
+120,,MP
+120,,MH
+121,,PR
+123,,PR
+125,,PR
+127,,PR
+129,,PR
+13,Louga,SN
+13,Hyōgo,JP
+13,Salamat,TD
+13,Damascus City,SY
+13,,GE
+13,Northern Province,RW
+13,Østfold,NO
+13,Los Ríos,EC
+13,Toshkent Shahri,UZ
+13,Qostanay,KZ
+13,Paro District,BT
+13,Sud-Est,HT
+13,Uaboe,NR
+13,Kiev Oblast,UA
+13,Kalimantan Tengah,ID
+13,Las Tunas,CU
+13,Pemba North,TZ
+13,,PA
+13,Bitlis Province,TR
+13,Ouham-Pendé,CF
+13,Xiagnabouli,LA
+13,Gitega,BI
+13,Saxony,DE
+13,Hövsgöl,MN
+13,At Taʼmīm,IQ
+13,Lara,VE
+13,Maryland,LR
+13,Nueva Segovia,NI
+13,Saint Thomas Middle Island,KN
+13,Terengganu,MY
+13,Bilǝsuvar,AZ
+13,,CD
+13,Hidalgo,MX
+13,Ḩāʼil,SA
+13,Cluj,RO
+13,Saint Mary,JM
+13,Mosteiros,CV
+13,Mendoza,AR
+13,Jūrmala,LV
+13,Hải Phòng,VN
+13,Preăh Vihéar,KH
+13,Mafeteng,LS
+13,Middle Shabele,SO
+13,Donga,BJ
+13,East Berbice-Corentyne,GY
+13,Northwest Territories,CA
+13,Flacq,MU
+13,Mon State,MM
+13,,KE
+13,Ñeembucú,PY
+13,Gyeonggi,KR
+13,Marowijne,SR
+13,Kabul,AF
+13,Raplamaa,EE
+13,Kermānshāh,IR
+13,Leiria,PT
+13,Manus,PG
+13,Cerknica,SI
+13,Quetzaltenango,GT
+13,Sanma,VU
+13,,MT
+13,Apulia,IT
+13,Kerala,IN
+13,Sonsonate,SV
+13,La Libertad,PE
+13,Al Wādī al Jadīd,EG
+13,Namibe,AO
+13,North Province,CM
+13,,BF
+13,Tsjeljabinsk,RU
+13,Southern Finland,FI
+13,Xinjiang,CN
+13,Maranhão,BR
+13,Tiaret,DZ
+13,Inagua,BS
+13,Phichit,TH
+13,,ME
+13,Šibensko-Kniniska,HR
+13,,QA
+13,Yanggang-do,KP
+13,,PW
+13,Cuvette,CG
+13,Bulacan,PH
+13,Rivera,UY
+13,Lempira,HN
+131,,PR
+133,,PR
+135,,PR
+137,,PR
+139,,PR
+14,Grand Port,MU
+14,Cerkno,SI
+14,Krāslavas Rajons,LV
+14,Nunavut,CA
+14,Misiones,AR
+14,Cagayan,PH
+14,Guaviare,CO
+14,Tizi Ouzou,DZ
+14,Luhans'ka Oblast',UA
+14,Kāpīsā,AF
+14,Morobe,PG
+14,Maʼrib,YE
+14,Eastern Province,EG
+14,Sisačko-Moslavačka,HR
+14,Mato Grosso,BR
+14,Nickerie,SR
+14,Mérida,VE
+14,Makkah,SA
+14,Maseru,LS
+14,Xiangkhoang,LA
+14,GrandʼAnse,HT
+14,Cuvette-Ouest,CG
+14,Western Province,RW
+14,Toshkent,UZ
+14,Rogaland,NO
+14,Karuzi,BI
+14,Sardinia,IT
+14,,PW
+14,Vakaga,CF
+14,Laccadives,IN
+14,Sancti Spíritus,CU
+14,Manabí,EC
+14,Yaren,NR
+14,Norrbottens Län,SE
+14,Constanţa,RO
+14,Kef,TN
+14,Xizang,CN
+14,Cǝbrayıl,AZ
+14,Tartus,SY
+14,Montserrado,LR
+14,Nógrád,HU
+14,Río San Juan,NI
+14,,CL
+14,Moxico,AO
+14,South Gobi Aimak,MN
+14,Eastern Finland,FI
+14,Shabeellaha Hoose,SO
+14,Saint Thomas,JM
+14,Maysān,IQ
+14,Praia,CV
+14,Lisbon,PT
+14,Littoral,BJ
+14,Rocha,UY
+14,Tandjilé,TD
+14,,KE
+14,Jalisco,MX
+14,,ME
+14,Usulután,SV
+14,Lambayeque,PE
+14,Pemagatsel,BT
+14,Phetchabun,TH
+14,Ruvuma,TZ
+14,Saint-Louis,SN
+14,Ibaraki,JP
+14,Saxony-Anhalt,DE
+14,Quiché,GT
+14,Saaremaa,EE
+14,Kuala Lumpur,MY
+14,Qyzylorda,KZ
+14,,CD
+14,Ocotepeque,HN
+14,North Gyeongsang,KR
+14,Essequibo Islands-West Demerara,GY
+14,María Trinidad Sánchez,DO
+14,Prey Vêng,KH
+14,South Province,CM
+14,East Kalimantan,ID
+14,Bolu Province,TR
+140,,MH
+141,,PR
+143,,PR
+145,,PR
+147,,PR
+149,,PR
+15,Daegu,KR
+15,Splitsko-Dalmatinska,HR
+15,Örebro Län,SE
+15,Retalhuleu,GT
+15,Minas Gerais,BR
+15,Cǝlilabad,AZ
+15,Para,SR
+15,Federal Territory of Labuan,MY
+15,México,MX
+15,L'vivs'ka Oblast',UA
+15,Mahaica-Berbice,GY
+15,Ha Tay,VN
+15,Gansu,CN
+15,,CL
+15,Thuringia,DE
+15,Sogn og Fjordane,NO
+15,,ME
+15,Jizzax,UZ
+15,Mohaleʼs Hoek,LS
+15,Olancho,HN
+15,Moka,MU
+15,Shinyanga,TZ
+15,Paraguarí,PY
+15,Rivas,NI
+15,Khammouan,LA
+15,Neuquén,AR
+15,Camarines Norte,PH
+15,East Kazakhstan,KZ
+15,Tafea,VU
+15,Western Finland,FI
+15,Mono,BJ
+15,Gasa District,BT
+15,Al Mahdīyah,TN
+15,South Hangay,MN
+15,Nana-Grébizi,CF
+15,Salto,UY
+15,Monte Cristi,DO
+15,Khūzestān,IR
+15,,PW
+15,Uíge,AO
+15,Bomi,LR
+15,Kuldīgas Rajons,LV
+15,Sicily,IT
+15,Magway,MM
+15,Kayanza,BI
+15,,HT
+15,Burdur Province,TR
+15,Chukotskiy Avtonomnyy Okrug,RU
+15,Overijssel,NL
+15,Uthai Thani,TH
+15,,BH
+15,Miranda,VE
+15,Şa‘dah,YE
+15,Morona-Santiago,EC
+15,P'yŏngan-namdo,KP
+15,As Suways,EG
+15,Covasna,RO
+15,New Ireland,PG
+15,Southern Province,RW
+15,Northern Borders Region,SA
+15,,CD
+15,Nīnawá,IQ
+15,Trinity Palmetto Point,KN
+15,Trelawny,JM
+15,Črenšovci,SI
+15,Guainía,CO
+15,Lampung,ID
+15,,KE
+15,Tlemcen,DZ
+15,Ishikawa,JP
+15,Santa Catarina,CV
+15,Lima,PE
+15,Matam,SN
+15,,TD
+15,Long Island,BS
+15,,MT
+15,Mafraq,JO
+15,Santiago de Cuba,CU
+150,,MH
+151,,PR
+153,,PR
+16,Al Munastīr,TN
+16,Loungnamtha,LA
+16,,PW
+16,Portalegre,PT
+16,Wāsiţ,IQ
+16,Quémé,BJ
+16,Aswān,EG
+16,Nakhon Sawan,TH
+16,Črna na Koroškem,SI
+16,Westmoreland,JM
+16,Sør-Trøndelag,NO
+16,Şan‘āʼ,YE
+16,Chuvashia,RU
+16,Pará,BR
+16,Liepāja,LV
+16,Daşkǝsǝn,AZ
+16,Sacatepéquez,GT
+16,,CD
+16,San José,UY
+16,Tuscany,IT
+16,Sirdaryo,UZ
+16,,SN
+16,Kordestān,IR
+16,Mayaguana,BS
+16,Santa Bárbara,HN
+16,Varaždinska,HR
+16,Dâmboviţa,RO
+16,Flevoland,NL
+16,Soltüstik Qazaqstan,KZ
+16,Singida,TZ
+16,Östergötlands Län,SE
+16,Bago,MM
+16,Pest,HU
+16,Zaire,AO
+16,,FI
+16,,ME
+16,South Jeolla,KR
+16,Paramaribo,SR
+16,Samchi,BT
+16,Santa Cruz,CV
+16,Čegrana,MK
+16,Michoacán,MX
+16,,BH
+16,Bursa,TR
+16,,KE
+16,Villa Clara,CU
+16,Pedernales,DO
+16,‘Ammān,JO
+16,Presidente Hayes,PY
+16,Sabah,MY
+16,Grand Kru,LR
+16,Mokhotlong,LS
+16,Monagas,VE
+16,Berlin,DE
+16,Western Highlands,PG
+16,Mahārāshtra,IN
+16,,MT
+16,Pomeroon-Supenaam,GY
+16,Mykolayivs'ka Oblast',UA
+16,Najrān,SA
+16,Sangha-Mbaéré,CF
+16,Iwate,JP
+16,Río Negro,AR
+16,Kirundo,BI
+16,Pamplemousses,MU
+16,,CL
+16,,TD
+16,Guangxi,CN
+16,Huila,CO
+16,Loreto,PE
+16,Ogun,NG
+16,Selenge,MN
+16,Malampa,VU
+160,,MH
+17,Lunda Norte,AO
+17,Hamgyŏng-bukto,KP
+17,Lowgar,AF
+17,Somogy,HU
+17,Makamba,BI
+17,Virovitičk-Podravska,HR
+17,,ME
+17,Sühbaatar,MN
+17,Çanakkale Province,TR
+17,,CD
+17,Stœ̆ng Trêng,KH
+17,Yangon,MM
+17,Potaro-Siparuni,GY
+17,Plateau,BJ
+17,La Guajira,CO
+17,Atlántico Norte,NI
+17,,SN
+17,Porto,PT
+17,South Chungcheong,KR
+17,,BH
+17,San Pedro,PY
+17,Madre de Dios,PE
+17,Dagestan,RU
+17,Jīzān,SA
+17,Kingston,JM
+17,West New Britain,PG
+17,Capital Region,DK
+17,,CL
+17,Soriano Department,UY
+17,Putrajaya,MY
+17,Zhambyl,KZ
+17,Samdrup Jongkhar District,BT
+17,,KE
+17,Ombella-Mpoko,CF
+17,Salta,AR
+17,Dǝvǝçi,AZ
+17,Kagawa,JP
+17,Saramacca,SR
+17,Telemark,NO
+17,,FI
+17,Črnomelj,SI
+17,Nong Khai,TH
+17,Qachaʼs Nek,LS
+17,Margibi,LR
+17,Valle,HN
+17,São Domingos,CV
+17,Bājah,TN
+17,,MT
+17,Zarqa,JO
+17,Isla Margarita,VE
+17,Morelos,MX
+17,Paraíba,BR
+17,Plaines Wilhems,MU
+17,Asyūţ,EG
+17,Nusa Tenggara Barat,ID
+17,Trentino-Alto Adige,IT
+17,An Najaf,IQ
+17,Tabora,TZ
+17,Pastaza,EC
+17,,TD
+17,San Marcos,GT
+17,Odessa Oblast,UA
+17,Manipur,IN
+17,Penama,VU
+17,Louangphabang,LA
+17,Dolj,RO
+170,,MH
+18,,BH
+18,East Nusa Tenggara,ID
+18,River Cess,LR
+18,Puerto Plata,DO
+18,Central Jutland,DK
+18,Ragged Island,BS
+18,Santarém,PT
+18,Szabolcs-Szatmár-Bereg,HU
+18,Zou,BJ
+18,Guizhou,CN
+18,Loei,TH
+18,Södermanlands Län,SE
+18,,KE
+18,Upper Demerara-Berbice,GY
+18,Centar Župa,MK
+18,Füzuli,AZ
+18,Tanga,TZ
+18,Región Autónoma Atlántico Sur,NI
+18,,SN
+18,,MM
+18,Central Aimak,MN
+18,Tacuarembó,UY
+18,Bejaïa,DZ
+18,,CD
+18,Vukovarsko-Srijemska,HR
+18,Gwangju,KR
+18,Pichincha,EC
+18,San Juan,AR
+18,Poltava Oblast,UA
+18,,ME
+18,Phôngsali,LA
+18,Lunda Sul,AO
+18,Şalāḩ ad Dīn,IQ
+18,Shemgang,BT
+18,,TD
+18,Muyinga,BI
+18,Aḑ Ḑāli‘,YE
+18,Troms,NO
+18,Santa Rosa,GT
+18,Limbažu Rajons,LV
+18,Galaţi,RO
+18,Quthing District,LS
+18,,FI
+18,Paraná,BR
+18,Banzart,TN
+18,Yoro,HN
+18,Irbid,JO
+18,Umbria,IT
+18,Tartumaa,EE
+18,Bangui,CF
+18,Meghālaya,IN
+18,,MT
+18,Svay Riĕng,KH
+18,Najin Sŏnbong-si,KP
+18,Portuguesa,VE
+18,Shefa,VU
+18,Nayarit,MX
+18,Sandaun,PG
+18,Moquegua,PE
+18,Nugaal,SO
+18,Kagoshima,JP
+18,Nangarhār,AF
+18,São Filipe,CV
+18,Banī Suwayf,EG
+18,Port Louis,MU
+180,,MH
+19,Gǝdǝbǝy,AZ
+19,,MT
+19,Salavan,LA
+19,Pasco,PE
+19,North Jutland,DK
+19,Tabūk,SA
+19,São Miguel,CV
+19,Aosta Valley,IT
+19,Nuevo León,MX
+19,Enga,PG
+19,Canindeyú,PY
+19,Divača,SI
+19,Upper Takutu-Upper Essequibo,GY
+19,,FI
+19,Būr Sa‘īd,EG
+19,Ngozi,BI
+19,Rivière du Rempart,MU
+19,San Luis,AR
+19,Çorum Province,TR
+19,Setúbal,PT
+19,Uvs,MN
+19,Meta,CO
+19,,CD
+19,Nīmrūz,AF
+19,Rivnens'ka Oblast',UA
+19,Bengo,AO
+19,Valgamaa,EE
+19,Togdheer,SO
+19,,ME
+19,Gorj,RO
+19,Tungurahua,EC
+19,Treinta y Tres,UY
+19,Ludzas Rajons,LV
+19,Češinovo,MK
+19,Karnātaka,IN
+19,,TD
+19,Zadarska,HR
+19,Ingushetiya,RU
+19,Salcedo,DO
+19,Liaoning Province,CN
+19,Wanica,SR
+19,Kagera,TZ
+19,Daejeon,KR
+19,Biskra,DZ
+19,Ma'an,JO
+19,Vest-Agder,NO
+19,Sucre,VE
+19,Takêv,KH
+19,Kanagawa,JP
+19,,KE
+19,‘Amrān,YE
+19,Thaba-Tseka District,LS
+19,Nābul,TN
+19,Sololá,GT
+19,Tashigang,BT
+19,Grand Gedeh,LR
+190,,MH
+20,,CD
+20,Lofa,LR
+20,Blida,DZ
+20,,TD
+20,South Gyeongsang,KR
+20,Irkutsk,RU
+20,Hồ Chí Minh,VN
+20,Nāgāland,IN
+20,Sakon Nakhon,TH
+20,Oaxaca,MX
+20,Santa Cruz,AR
+20,Suchitepéquez,GT
+20,Zagrebačka,HR
+20,Jász-Nagykun-Szolnok,HU
+20,Savanne,MU
+20,Viana do Castelo,PT
+20,Gǝncǝ,AZ
+20,Misto Sevastopol,UA
+20,Harghita,RO
+20,Nei Mongol,CN
+20,Dumyāţ,EG
+20,Ulaanbaatar,MN
+20,Al Jawf,SA
+20,Veneto,IT
+20,Woqooyi Galbeed,SO
+20,Denizli Province,TR
+20,Rutana,BI
+20,Zamora-Chinchipe,EC
+20,Region Zealand,DK
+20,Samaná,DO
+20,Al Bayḑāʼ,YE
+20,Tarrafal,CV
+20,,AO
+20,Nariño,CO
+20,Piauí,BR
+20,Čučer-Sandevo,MK
+20,,ME
+20,Kōchi,JP
+20,Viljandimaa,EE
+20,Madonas Rajons,LV
+20,Piura,PE
+20,Savannahkhét,LA
+20,,MT
+20,National Capital,PG
+20,Vestfold,NO
+20,Thimphu,BT
+20,,KE
+20,Pemba South,TZ
+20,Táchira,VE
+20,Dobrepolje,SI
+20,Ajlun,JO
+21,Puebla,MX
+21,,ME
+21,Uppsala Län,SE
+21,Ningxia,CN
+21,Zanzibar Central/South,TZ
+21,,SJ
+21,Kafr ash Shaykh,EG
+21,South Denmark,DK
+21,,MT
+21,Kâmpôt,KH
+21,Aqaba,JO
+21,Bouira,DZ
+21,Tolna,HU
+21,Bulgan,MN
+21,Grad Zagreb,HR
+21,Norte de Santander,CO
+21,Akwa Ibom,NG
+21,Võrumaa,EE
+21,Totonicapán,GT
+21,Central Sulawesi,ID
+21,Goranboy,AZ
+21,Ulsan,KR
+21,Khomas,NA
+21,Kumamoto,JP
+21,Santa Fe,AR
+21,Ruyigi,BI
+21,Ivanovo,RU
+21,Al Jawf,YE
+21,Tongsa,BT
+21,Sumy Oblast,UA
+21,Trujillo,VE
+21,Gbarpolu,LR
+21,,KE
+21,Diyarbakır,TR
+21,Sánchez Ramírez,DO
+21,,CD
+21,Vila Real,PT
+21,Puno,PE
+21,Ogres Rajons,LV
+21,,CV
+21,Hunedoara,RO
+21,Orissa,IN
+21,Awdal,SO
+21,Kiến Giang,VN
+21,Rio de Janeiro,BR
+21,,PG
+211,,AX
+212,,AX
+213,,AX
+22,,CV
+22,Göyçay,AZ
+22,Pondicherry,IN
+22,Kyōto,JP
+22,Värmlands Län,SE
+22,San Martín,PE
+22,Ialomiţa,RO
+22,Santiago del Estero,AR
+22,Bokèo,LA
+22,Preiļu Rajons,LV
+22,Viseu,PT
+22,Muramvya,BI
+22,Maţrūḩ,EG
+22,,KE
+22,Bushehr Province,IR
+22,Sucumbios,EC
+22,Ḩajjah,YE
+22,,TD
+22,,CD
+22,Centrale,TG
+22,Putumayo,CO
+22,Harbour Island,BS
+22,Kabardino-Balkariya,RU
+22,Cargados Carajos,MU
+22,Edirne Province,TR
+22,Yaracuy,VE
+22,Ternopil's'ka Oblast',UA
+22,Cross River,NG
+22,Rio Grande do Norte,BR
+22,,PG
+22,Asunción,PY
+22,,SJ
+22,Djelfa,DZ
+22,Zanzibar North,TZ
+22,Khon Kaen,TH
+22,Delčevo,MK
+22,Beijing,CN
+22,Wangdi Phodrang,BT
+22,,MT
+22,Zacapa,GT
+22,River Gee,LR
+22,Querétaro,MX
+22,Vas,HU
+22,Jerash,JO
+22,Sool,SO
+22,Sulawesi Tenggara,ID
+22,Občina Dol pri Ljubljani,SI
+22,Phnum Pénh,KH
+22,Silyānah,TN
+23,Madaba,JO
+23,,CV
+23,Veszprém,HU
+23,Rodrigues,MU
+23,Dar es Salaam,TZ
+23,Hacıqabul,AZ
+23,Shanghai,CN
+23,,KE
+23,Guelma,DZ
+23,Lâm Ðồng,VN
+23,Lorestān,IR
+23,Mwaro,BI
+23,Darhan Uul,MN
+23,Azores,PT
+23,Napo,EC
+23,Asunción,PY
+23,Rôtânăh Kiri,KH
+23,,MT
+23,Bolikhamxai,LA
+23,Kaliningrad,RU
+23,Sūsah,TN
+23,,CD
+23,,TD
+23,New Providence,BS
+23,Quintana Roo,MX
+23,Iaşi,RO
+23,Punjab,IN
+23,Kaduna,NG
+23,Rēzekne,LV
+23,Ibb,YE
+23,Zulia,VE
+23,San Juan,DO
+23,Kalasin,TH
+23,Tacna,PE
+23,Kara,TG
+23,Rio Grande do Sul,BR
+23,,BT
+23,Mie,JP
+23,Vinnyts'ka Oblast',UA
+23,Västerbottens Län,SE
+23,Qinā,EG
+23,Quindío,CO
+23,Takamaka,SC
+23,Elazığ,TR
+23,Kandahār,AF
+23,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",AR
+24,Govĭ-Sumber,MN
+24,Risaralda,CO
+24,Maritime,TG
+24,San Pedro de Macorís,DO
+24,Volyns'ka Oblast',UA
+24,Shanxi,CN
+24,,FR
+24,Kunduz Province,AF
+24,,BI
+24,Laḩij,YE
+24,Viangchan,LA
+24,Jijel,DZ
+24,Siĕm Réab,KH
+24,Tucumán,AR
+24,Acklins and Crooked Islands,BS
+24,Erzincan Province,TR
+24,Dornava,SI
+24,Maha Sarakham,TH
+24,Rukwa,TZ
+24,Västernorrlands Län,SE
+24,San Luis Potosí,MX
+24,,KE
+24,,CV
+24,İmişli,AZ
+24,Miyagi,JP
+24,,CD
+24,Boquerón,PY
+24,Katsina,NG
+24,Long An,VN
+24,Rājasthān,IN
+24,Rondônia,BR
+24,Tumbes,PE
+24,Orellana,EC
+24,Kalmykiya,RU
+24,Sūhāj,EG
+24,West Sumatra,ID
+24,,BT
+24,Zala,HU
+24,Baladīyat Jādū,LY
+24,,MT
+25,,KE
+25,Semnān,IR
+25,Santiago,DO
+25,,BI
+25,Anambra,NG
+25,İsmayıllı,AZ
+25,Västmanlands Län,SE
+25,Orhon,MN
+25,Freeport,BS
+25,Roraima,BR
+25,Distrito Federal,VE
+25,,EC
+25,Erzurum Province,TR
+25,Demir Kapija,MK
+25,Roi Et,TH
+25,Laghouat,DZ
+25,Zakarpats'ka Oblast',UA
+25,Ucayali,PE
+25,Plateaux,TG
+25,Rīga,LV
+25,Maramureş,RO
+25,Dravograd,SI
+25,Inner Islands,SC
+25,"Archipiélago de San Andrés, Providencia y Santa Catalina",CO
+25,,TD
+25,Baladīyat Jālū,LY
+25,,CD
+25,,GE
+25,Sinaloa,MX
+25,,CV
+25,,MT
+25,Kaluga,RU
+25,Ta‘izz,YE
+25,Tamil Nādu,IN
+25,Shandong,CN
+25,Zanzibar Urban/West,TZ
+25,Bantéay Méan Cheăy,KH
+25,Miyazaki,JP
+26,Nagano,JP
+26,Janūb Sīnāʼ,EG
+26,,KE
+26,Tehrān,IR
+26,Stockholms Län,SE
+26,,TR
+26,Savanes,TG
+26,,CD
+26,English River,SC
+26,Santa Catarina,BR
+26,Vargas,VE
+26,,CV
+26,Takhār,AF
+26,Chaiyaphum,TH
+26,Duplek,SI
+26,North Sumatra,ID
+26,Xékong,LA
+26,,YE
+26,Benue,NG
+26,Tripura,IN
+26,Arusha,TZ
+26,Santander,CO
+26,,BI
+26,Kǝlbǝcǝr,AZ
+26,Zaporiz'ka Oblast',UA
+26,Sonora,MX
+26,Santiago Rodríguez,DO
+26,Mascara,DZ
+26,Kêb,KH
+26,,TD
+26,,MT
+26,Mehedinţi,RO
+26,Shaanxi,CN
+26,,EC
+27,Karachayevo-Cherkesiya,RU
+27,Skåne Län,SE
+27,Borno,NG
+27,La Rioja,ES
+27,Viangchan,LA
+27,Mureş,RO
+27,Ŏtdâr Méan Cheăy,KH
+27,,MT
+27,,KE
+27,Port Glaud,SC
+27,Manyara,TZ
+27,Valverde,DO
+27,,CV
+27,,FR
+27,Nagasaki,JP
+27,Zhytomyrs'ka Oblast',UA
+27,Shamāl Sīnāʼ,EG
+27,,TD
+27,Mʼsila,DZ
+27,Kürdǝmir,AZ
+27,,CD
+27,Sucre,CO
+27,Tabasco,MX
+27,São Paulo,BR
+27,Gorenja Vas-Poljane,SI
+27,Saldus Rajons,LV
+27,,YE
+27,Bin ‘Arūs,TN
+27,Nakhon Ratchasima,TH
+27,Vardak,AF
+28,,TD
+28,Caprivi,NA
+28,Tianjin,CN
+28,Gorišnica,SI
+28,Imo,NG
+28,Tolima,CO
+28,Kareliya,RU
+28,Preăh Seihânŭ,KH
+28,,FR
+28,Buriram,TH
+28,Tamaulipas,MX
+28,Madanīn,TN
+28,,CD
+28,Sergipe,BR
+28,Nara,JP
+28,Giresun Province,TR
+28,Neamţ,RO
+28,Zabul Province,AF
+28,Laçın,AZ
+28,Västra Götalands Län,SE
+28,Talsu Rajons,LV
+28,,EG
+28,,YE
+28,,TZ
+28,Maluku,ID
+28,Eşfahān,IR
+28,,KE
+28,,MT
+28,Dolneni,MK
+28,El Seíbo,DO
+28,Bengal,IN
+28,,GE
+29,Paktīkā,AF
+29,Tukuma Rajons,LV
+29,,CD
+29,Autonomous Region of Madrid,ES
+29,Surin,TH
+29,Hato Mayor,DO
+29,Erongo,NA
+29,Kano,NG
+29,Khartoum,SD
+29,Valle del Cauca,CO
+29,Sikkim,IN
+29,Maluku Utara,ID
+29,,MT
+29,Bătdâmbâng,KH
+29,Tlaxcala,MX
+29,Kermān,IR
+29,Central,LK
+29,Yunnan Province,CN
+29,,TZ
+29,Oum el Bouaghi,DZ
+29,Olt,RO
+29,Kemerovo,RU
+29,Gornja Radgona,SI
+29,Estado de Goiás,BR
+29,Qābis,TN
+29,Niigata,JP
+29,Lǝnkǝran,AZ
+29,,KE
+30,Qafşah,TN
+30,,TZ
+30,Sisaket,TH
+30,Khabarovsk Krai,RU
+30,Pernambuco,BR
+30,,KE
+30,North Central,LK
+30,La Vega,DO
+30,Gornji Grad,SI
+30,Drugovo,MK
+30,Veracruz-Llave,MX
+30,Vaupés,CO
+30,Quảng Ninh,VN
+30,Sidi Bel Abbès,DZ
+30,,CD
+30,Arunāchal Pradesh,IN
+30,,MT
+30,West Java,ID
+30,Kwara,NG
+30,Balkh,AF
+30,Guangdong,CN
+30,Palĭn,KH
+30,Prahova,RO
+30,Valkas Rajons,LV
+30,Hardap,NA
+30,Ōita,JP
+300,,MH
+31,North Sulawesi,ID
+31,Karas,NA
+31,Sălaj,RO
+31,Lerik,AZ
+31,,MT
+31,Hainan Province,CN
+31,Vichada,CO
+31,Tocantins,BR
+31,Gornji Petrovci,SI
+31,,CD
+31,Jowzjān,AF
+31,Yucatán,MX
+31,Khakasiya,RU
+31,Mizoram,IN
+31,Murcia,ES
+31,Niger,NG
+31,Hatay Province,TR
+31,Baa,MV
+31,Skikda,DZ
+31,,KH
+31,Valmieras Rajons,LV
+31,,TZ
+31,Okayama,JP
+31,Qibilī,TN
+31,Narathiwat,TH
+31,,KE
+31,Monseñor Nouel,DO
+310,,MH
+32,North Western,LK
+32,Satu Mare,RO
+32,Ardabīl,IR
+32,Dhaalu,MV
+32,,KE
+32,Şafāqis,TN
+32,Ōsaka,JP
+32,Samangān,AF
+32,Sichuan,CN
+32,Masallı,AZ
+32,,MT
+32,Mersin Province,TR
+32,Monte Plata,DO
+32,Kunene,NA
+32,Khanty-Mansiyskiy Avtonomnyy Okrug,RU
+32,Chai Nat,TH
+32,Navarre,ES
+32,Daman and Diu,IN
+32,Sơn La,VN
+32,Casanare,CO
+32,,FR
+32,Zacatecas,MX
+32,Oyo,NG
+32,South Sumatra,ID
+32,Ventspils,LV
+32,Grosuplje,SI
+320,,MH
+3237072,,JE
+3237864,,JE
+33,Sabaragamuwa,LK
+33,Tây Ninh,VN
+33,Sibiu,RO
+33,Banten,ID
+33,Tébessa,DZ
+33,Saga,JP
+33,Āz̄ārbāyjān-e Sharqī,IR
+33,Kirov,RU
+33,San Cristóbal,DO
+33,Ventspils Rajons,LV
+33,Chongqing,CN
+33,Sar-e Pol,AF
+33,Ohangwena,NA
+33,,KE
+33,Gevgelija,MK
+33,Isparta Province,TR
+33,,MT
+33,Goa,IN
+33,Mingǝcevir,AZ
+33,Sīdī Bū Zayd,TN
+33,Sing Buri,TH
+33,Cundinamarca,CO
+330,,MH
+34,,LV
+34,Thanh Hóa,VN
+34,,KE
+34,Istanbul,TR
+34,Markazi Province,IR
+34,,MT
+34,Suceava,RO
+34,Principality of Asturias,ES
+34,Gaafu Alifu,MV
+34,Hrastnik,SI
+34,Taţāwīn,TN
+34,Naftalan,AZ
+34,Lop Buri,TH
+34,Bihār,IN
+34,Southern,LK
+34,Distrito Capital,CO
+34,Saitama,JP
+34,Adrar,DZ
+34,Konar,AF
+34,Distrito Nacional,DO
+34,Gorontalo,ID
+34,Komi,RU
+340,,MH
+35,Gradsko,MK
+35,Aïn Defla,DZ
+35,,MT
+35,Bangka-Belitung,ID
+35,Hrpelje-Kozina,SI
+35,Adamawa,NG
+35,Laghmān,AF
+35,Thái Bình,VN
+35,Bolívar,CO
+35,San Salvador and Rum Cay,BS
+35,Peravia,DO
+35,Nakhichevan,AZ
+35,Shiga,JP
+35,Ang Thong,TH
+35,Teleorman,RO
+35,Omaheke,NA
+35,Māzandarān Province,IR
+35,,KE
+35,Tawzar,TN
+35,,LV
+35,İzmir,TR
+35,Gaafu Dhaalu,MV
+35,Uva,LK
+35,Madhya Pradesh,IN
+350,,MH
+36,Western,LK
+36,,MT
+36,Aïn Temouchent,DZ
+36,Boyacá,CO
+36,Ilinden,MK
+36,Red Sea,SD
+36,,KE
+36,Paktia Province,AF
+36,Provincia de San José de Ocoa,DO
+36,Papua,ID
+36,Delta,NG
+36,,BS
+36,Neftçala,AZ
+36,Shimane,JP
+36,Omusati,NA
+36,Haa Alifu,MV
+36,Phra Nakhon Si Ayutthaya,TH
+36,Timiş,RO
+36,Idrija,SI
+36,Uttar Pradesh,IN
+36,Zanjan Province,IR
+36,Tūnis,TN
+37,,MT
+37,Tulcea,RO
+37,Haa Dhaalu,MV
+37,,BS
+37,Riau,ID
+37,Kastamonu Province,TR
+37,Golestān,IR
+37,,LK
+37,Chhattisgarh,IN
+37,Zaghwān,TN
+37,Caldas,CO
+37,Annaba,DZ
+37,Tiền Giang,VN
+37,Kostroma,RU
+37,Ig,SI
+37,Shizuoka,JP
+37,Provincia de Santo Domingo,DO
+37,Edo,NG
+37,Sara Buri,TH
+37,Oshana,NA
+37,Khowst,AF
+37,Oğuz,AZ
+37,,KE
+37,,LV
+38,Kaafu,MV
+38,Magdalena,CO
+38,Blagoevgrad,BG
+38,Béchar,DZ
+38,Al Jazirah,SD
+38,Ilirska Bistrica,SI
+38,Krasnodarskiy Kray,RU
+38,Qǝbǝlǝ,AZ
+38,,MT
+38,South Sulawesi,ID
+38,Jharkhand,IN
+38,Qazvīn,IR
+38,East,IS
+38,,KE
+38,Nonthaburi,TH
+38,Oshikoto,NA
+38,,LK
+38,Vaslui,RO
+38,Tochigi,JP
+38,,LV
+38,Kayseri Province,TR
+38,Nūrestān,AF
+38,Ariana,TN
+39,Al Qadarif,SD
+39,Manouba,TN
+39,Cantabria,ES
+39,Uttarakhand,IN
+39,Lạng Sơn,VN
+39,Otjozondjupa,NA
+39,Kırklareli Province,TR
+39,Ivančna Gorica,SI
+39,Irian Jaya Barat,ID
+39,,MT
+39,Burgas,BG
+39,Vâlcea,RO
+39,Lhaviyani,MV
+39,Jigawa,NG
+39,,LV
+39,Qǝx,AZ
+39,Qom,IR
+39,,KE
+39,Capital Region,IS
+39,,BS
+39,Orūzgān Province,AF
+39,Bordj Bou Arréridj,DZ
+39,Pathum Thani,TH
+39,Tokushima,JP
+390,,MH
+40,Kırşehir Province,TR
+40,Riau Islands,ID
+40,,KE
+40,Karbinci,MK
+40,Boumerdes,DZ
+40,Kebbi,NG
+40,,MT
+40,Dobrich,BG
+40,,BS
+40,Kurgan,RU
+40,Northeast,IS
+40,Tōkyō,JP
+40,,LV
+40,Parvān,AF
+40,Khomas,NA
+40,Izola-Isola,SI
+40,Bangkok,TH
+40,Mindoro Occidental,PH
+40,Yazd,IR
+40,Berat,AL
+40,,IN
+40,Vrancea,RO
+40,Qazax,AZ
+41,Meemu,MV
+41,White Nile,SD
+41,Kursk,RU
+41,,NA
+41,Khorāsān-e Jonūbī,IR
+41,,BS
+41,Sulawesi Barat,ID
+41,Tottori,JP
+41,Kogi,NG
+41,Phayao,TH
+41,,KE
+41,Northwest,IS
+41,,MT
+41,Călăraşi,RO
+41,Kocaeli Province,TR
+41,Gabrovo,BG
+41,Karpoš,MK
+41,Dibër,AL
+41,Mindoro Oriental,PH
+41,Dāykondī,AF
+41,Qobustan,AZ
+41,Chlef,DZ
+410,,MH
+42,Razavi Khorasan Province,IR
+42,Blue Nile,SD
+42,Panjshīr,AF
+42,Toyama,JP
+42,Giurgiu,RO
+42,Durrës,AL
+42,Gnaviyani,MV
+42,Juršinci,SI
+42,Samut Prakan,TH
+42,Oblast Sofiya-Grad,BG
+42,El Bayadh,DZ
+42,Leningrad,RU
+42,South,IS
+42,,KE
+42,Quba,AZ
+42,,MT
+42,,ID
+42,,LV
+42,Osun,NG
+420,,MH
+43,Elbasan,AL
+43,Kičevo,MK
+43,Kütahya Province,TR
+43,,LV
+43,Lipetsk,RU
+43,,MT
+43,Northern,SD
+43,Khorāsān-e Shomālī,IR
+43,Ilfov,RO
+43,Taraba,NG
+43,Nakhon Nayok,TH
+43,Khaskovo,BG
+43,Qubadlı,AZ
+43,Noonu,MV
+43,El Oued,DZ
+43,,KE
+43,Wakayama,JP
+43,Ðồng Nai,VN
+43,Southern Peninsula,IS
+430,,MH
+44,Kisela Voda,MK
+44,Kanal,SI
+44,,IR
+44,Ādīs Ābeba,ET
+44,Chachoengsao,TH
+44,Yamagata,JP
+44,Fier,AL
+44,El Tarf,DZ
+44,Yobe,NG
+44,Westfjords,IS
+44,Kŭrdzhali,BG
+44,Raa,MV
+44,,LV
+44,Ha Nội,VN
+44,,KE
+44,,MT
+44,Qusar,AZ
+44,Magadan,RU
+44,,FR
+44,Malatya Province,TR
+45,Saatlı,AZ
+45,Gjirokastër,AL
+45,Abia,NG
+45,,KE
+45,Manisa Province,TR
+45,,BS
+45,Āfar,ET
+45,Kyustendil,BG
+45,Kidričevo,SI
+45,Mariy-El,RU
+45,,MT
+45,Klečevce,MK
+45,,LV
+45,Shaviyani,MV
+45,Ghardaïa,DZ
+45,Bà Rịa-Vũng Tàu,VN
+45,West,IS
+45,Yamaguchi,JP
+46,Bauchi,NG
+46,Chon Buri,TH
+46,Āmara,ET
+46,Kočani,MK
+46,Kobarid,SI
+46,Kahramanmaraş Province,TR
+46,,LV
+46,,BS
+46,Sabirabad,AZ
+46,Illizi,DZ
+46,Korçë,AL
+46,,KE
+46,Yamanashi,JP
+46,Mordoviya,RU
+46,Thaa,MV
+46,,MT
+46,Lovech,BG
+46,Bình Ðịnh,VN
+47,,KE
+47,Bīnshangul Gumuz,ET
+47,Şǝki,AZ
+47,Gharb Dārfūr,SD
+47,,BS
+47,Okinawa,JP
+47,,RU
+47,Khenchela,DZ
+47,Montana,BG
+47,Kobilje,SI
+47,Rayong,TH
+47,Vaavu,MV
+47,Bình Thuận,VN
+47,,LV
+47,Konče,MK
+47,Kukës,AL
+47,,MT
+47,Enugu,NG
+48,Kondovo,MK
+48,Muğla Province,TR
+48,Meknès-Tafilalet,MA
+48,Mila,DZ
+48,Pazardzhit,BG
+48,Şǝki,AZ
+48,,MT
+48,Moscow,RU
+48,Lezhë,AL
+48,,KE
+48,,MV
+48,Dirē Dawa,ET
+48,Chanthaburi,TH
+48,Ondo,NG
+49,Trat,TH
+49,Gia Lai,VN
+49,,MT
+49,Gambēla Hizboch,ET
+49,Muş Province,TR
+49,Naama,DZ
+49,Shkodër,AL
+49,Murmansk Oblast,RU
+49,Janūb Dārfūr,SD
+49,Plateau,NG
+49,Pernik,BG
+49,,BS
+49,Salyan,AZ
+49,,KE
+49,Komen,SI
+50,Janūb Kurdufān,SD
+50,Tiranë,AL
+50,Hà Giang,VN
+50,Koper-Capodistria,SI
+50,Pleven,BG
+50,Hārerī Hizb,ET
+50,Nenetskiy Avtonomnyy Okrug,RU
+50,Kanchanaburi,TH
+50,,LV
+50,Rivers,NG
+50,Ouargla,DZ
+50,Chaouia-Ouardigha,MA
+50,Nevşehir,TR
+50,Şamaxı,AZ
+50,,MT
+50,,KE
+51,Kratovo,MK
+51,Nizjnij Novgorod,RU
+51,Kozje,SI
+51,Plovdiv,BG
+51,,KE
+51,T'bilisi,GE
+51,Găgăuzia,MD
+51,Şǝmkir,AZ
+51,Vlorë,AL
+51,Relizane,DZ
+51,,MT
+51,,LV
+51,Suphan Buri,TH
+51,Oromīya,ET
+51,Andalusia,ES
+51,Sokoto,NG
+52,Kranj,SI
+52,Novgorod,RU
+52,,MT
+52,Kriva Palanka,MK
+52,Hlavní Mesto Praha,CZ
+52,Ratchaburi,TH
+52,,FR
+52,Kassalā,SD
+52,Aragon,ES
+52,,KE
+52,Sumalē,ET
+52,,LV
+52,Samux,AZ
+52,Hà Tĩnh,VN
+52,Bayelsa,NG
+52,Razgrad,BG
+52,Ordu Province,TR
+52,Souk Ahras,DZ
+53,Nakhon Pathom,TH
+53,Canary Islands,ES
+53,Hòa Bình,VN
+53,Tamanghasset,DZ
+53,,MV
+53,,BS
+53,Siyǝzǝn,AZ
+53,Krivogaštani,MK
+53,Kranjska Gora,SI
+53,Nahr an Nīl,SD
+53,Novosibirsk,RU
+53,Tigray,ET
+53,,FR
+53,,LV
+53,Ruse,BG
+53,,KE
+53,,MT
+53,Rize,TR
+53,Ebonyi,NG
+54,Khánh Hòa,VN
+54,Oriental,MA
+54,Kruševo,MK
+54,Omsk,RU
+54,YeDebub Bihēroch Bihēreseboch na Hizboch,ET
+54,Samut Songkhram,TH
+54,Tindouf,DZ
+54,,BS
+54,Sumqayit,AZ
+54,,KE
+54,Krško,SI
+54,Sakarya Province,TR
+54,,MT
+54,Castille-La Mancha,ES
+54,Ekiti,NG
+54,Shumen,BG
+55,Kon Tum,VN
+55,,MT
+55,Kukliš,MK
+55,Gombe,NG
+55,Souss-Massa-Drâa,MA
+55,Samsun Province,TR
+55,Şuşa,AZ
+55,Shamāl Dārfūr,SD
+55,Castille and León,ES
+55,,KE
+55,,LV
+55,Kungota,SI
+55,Silistra,BG
+55,Tipaza,DZ
+55,Orenburg,RU
+55,Samut Sakhon,TH
+56,Nassarawa,NG
+56,,MT
+56,Shamāl Kurdufān,SD
+56,Tissemsilt,DZ
+56,,LV
+56,Catalonia,ES
+56,Alytaus Apskritis,LT
+56,Tadla-Azilal,MA
+56,Phetchaburi,TH
+56,Sliven,BG
+56,Orjol,RU
+57,Chişinău,MD
+57,Kauno Apskritis,LT
+57,Tǝrtǝr,AZ
+57,Zamfara,NG
+57,,MT
+57,Sinop Province,TR
+57,Penza,RU
+57,Smolyan,BG
+57,,LV
+57,Estremadura,ES
+57,Laško,SI
+57,Prachuap Khiri Khan,TH
+58,,RU
+58,Klaipėdos Apskritis,LT
+58,Labuništa,MK
+58,Sofiya,BG
+58,Galicia,ES
+58,Stînga Nistrului,MD
+58,Chumphon,TH
+58,Nghệ An,VN
+58,Tovuz,AZ
+58,Sivas Province,TR
+58,,MT
+58,Sinnār,SD
+59,Marijampolės Apskritis,LT
+59,Stara Zagora,BG
+59,Primorskiy Kray,RU
+59,Ucar,AZ
+59,Opstina Lipkovo,MK
+59,Ninh Bình,VN
+59,Tekirdağ Province,TR
+59,Ranong,TH
+59,Laâyoune-Boujdour-Sakia El Hamra,MA
+59,,MT
+59,Raionul Anenii Noi,MD
+59,Basque Country,ES
+60,,LV
+60,,SD
+60,Pskov,RU
+60,,MT
+60,Tokat,TR
+60,Valencian Community,ES
+60,Xaçmaz,AZ
+60,Surat Thani,TH
+60,Bălţi,MD
+60,Panevėžio Apskritis,LT
+60,Ninh Thuận,VN
+60,Tŭrgovishte,BG
+60,Lozovo,MK
+61,,GE
+61,Raionul Basarabeasca,MD
+61,Trabzon Province,TR
+61,Ljubljana,SI
+61,,LV
+61,Phú Yên,VN
+61,Xankǝndi,AZ
+61,,MT
+61,Varna,BG
+61,Šiaulių Apskritis,LT
+61,Phangnga,TH
+61,,SD
+61,Rostov,RU
+62,Ljubno,SI
+62,Phuket,TH
+62,,MT
+62,Quảng Bình,VN
+62,Veliko Tŭrnovo,BG
+62,Bender,MD
+62,Makedonska Kamenica,MK
+62,Tauragės Apskritis,LT
+62,Rjazan,RU
+62,Xanlar,AZ
+62,,LV
+62,Tunceli Province,TR
+62,,SD
+63,Quảng Ngãi,VN
+63,Xızı,AZ
+63,Sakha,RU
+63,Şanlıurfa Province,TR
+63,Krabi,TH
+63,,LV
+63,Vidin,BG
+63,Raionul Briceni,MD
+63,,MT
+63,,LY
+63,Telšių Apskritis,LT
+64,Xocalı,AZ
+64,,MT
+64,Sakhalin,RU
+64,Uşak Province,TR
+64,,LY
+64,Vratsa,BG
+64,Raionul Cahul,MD
+64,Quảng Trị,VN
+64,Nakhon Si Thammarat,TH
+64,Logatec,SI
+64,Utenos Apskritis,LT
+64,,LV
+6417214,,GG
+6417215,,GG
+6417224,,GG
+6417226,,GG
+6417228,,GG
+6417229,,GG
+6417233,,GG
+65,,GE
+65,Sóc Trăng,VN
+65,Trang,TH
+65,Samara,RU
+65,,LY
+65,Yambol,BG
+65,Xocavǝnd,AZ
+65,,MT
+65,Raionul Cantemir,MD
+65,,LV
+65,Van Province,TR
+65,Vilniaus Apskritis,LT
+66,Thừa Thiên-Huế,VN
+66,,LY
+66,,GE
+66,Loški Potok,SI
+66,Călăraşi,MD
+66,Yardımlı,AZ
+66,Phatthalung,TH
+66,,MT
+66,Sankt-Peterburg,RU
+66,Yozgat Province,TR
+67,Satun,TH
+67,Yevlax,AZ
+67,,LY
+67,Saratov,RU
+67,,GE
+67,Trà Vinh,VN
+67,Căuşeni,MD
+67,,LV
+67,,MT
+68,Lukovica,SI
+68,Raionul Cimişlia,MD
+68,Ankara Province,TR
+68,Songkhla,TH
+68,,MT
+68,,LV
+68,Yevlax,AZ
+68,,GE
+68,,LY
+68,Severnaya Osetiya-Alaniya,RU
+68,Tuyên Quang,VN
+69,Raionul Criuleni,MD
+69,,GE
+69,,LY
+69,Zǝngilan,AZ
+69,Gümüşhane,TR
+69,Negotino,MK
+69,Vĩnh Long,VN
+69,Pattani,TH
+69,,LV
+69,Smolensk,RU
+70,Zaqatala,AZ
+70,,GE
+70,Raionul Donduşeni,MD
+70,Yên Bái,VN
+70,,LY
+70,Hakkâri Province,TR
+70,Yala,TH
+70,Stavropol'skiy Kray,RU
+70,,LV
+71,,LV
+71,,GE
+71,Konya Province,TR
+71,Bắc Giang,VN
+71,Raionul Drochia,MD
+71,Zǝrdab,AZ
+71,,LY
+71,Sverdlovsk,RU
+71,Medvode,SI
+72,Mengeš,SI
+72,,GE
+72,,LV
+72,Novo Selo,MK
+72,Mardin Province,TR
+72,Yasothon,TH
+72,,LY
+72,Bắc Kạn,VN
+72,Dubăsari,MD
+72,Tambov,RU
+72,Lower Silesian Voivodeship,PL
+7280295,,CG
+73,Tatarstan,RU
+73,,LV
+73,,LY
+73,Nakhon Phanom,TH
+73,Raionul Edineţ,MD
+73,Metlika,SI
+73,Obleševo,MK
+73,,GE
+73,Kujawsko-Pomorskie Voivodship,PL
+73,Niğde,TR
+73,Bạc Liêu,VN
+736572,,GR
+74,,LY
+74,Prachin Buri,TH
+74,Mežica,SI
+74,Siirt Province,TR
+74,Łódź Voivodeship,PL
+74,Bắc Ninh,VN
+74,Raionul Făleşti,MD
+75,,LY
+75,,FR
+75,Orašac,MK
+75,Raionul Floreşti,MD
+75,Ubon Ratchathani,TH
+75,Tomsk,RU
+75,Bình Dương,VN
+75,Aksaray Province,TR
+75,Lublin Voivodeship,PL
+76,,LY
+76,Mislinja,SI
+76,,FR
+76,Bas-Sassandra,CI
+76,Tula,RU
+76,Raionul Glodeni,MD
+76,Udon Thani,TH
+76,Lubusz Voivodship,PL
+76,Batman Province,TR
+76,Bình Phước,VN
+7670842,,MG
+7670846,,MG
+7670847,,MG
+7670848,,MG
+7670849,,MG
+7670850,,MG
+7670851,,MG
+7670852,,MG
+7670853,,MG
+7670854,,MG
+7670855,,MG
+7670856,,MG
+7670857,,MG
+7670902,,MG
+7670904,,MG
+7670905,,MG
+7670906,,MG
+7670907,,MG
+7670908,,MG
+7670910,,MG
+7670911,,MG
+7670913,,MG
+77,Tverskaya Oblast’,RU
+77,,LV
+77,Amnat Charoen,TH
+77,Raionul Hînceşti,MD
+77,Bayburt,TR
+77,Denguélé,CI
+77,Moravče,SI
+77,Lesser Poland Voivodeship,PL
+77,,LY
+77,Cà Mau,VN
+78,Dix-Huit Montagnes,CI
+78,Pehčevo,MK
+78,Masovian Voivodeship,PL
+78,Moravske Toplice,SI
+78,Tjumen,RU
+78,,LY
+78,Raionul Ialoveni,MD
+78,Karaman Province,TR
+78,Ðà Nẵng,VN
+78,South Moravian Region,CZ
+78,,LV
+78,Mukdahan,TH
+79,Mozirje,SI
+79,,LY
+79,Opole Voivodeship,PL
+79,,LV
+79,Tyva,RU
+79,Raionul Leova,MD
+79,Jihočeský Kraj,CZ
+79,Petrovec,MK
+79,Kırıkkale Province,TR
+79,Hải Dương,VN
+79,Nong Bua Lamphu,TH
+80,Plasnica,MK
+80,,LY
+80,Raionul Nisporeni,MD
+80,Hà Nam,VN
+80,Udmurtiya,RU
+80,Sa Kaeo,TH
+80,Murska Sobota,SI
+80,Şırnak Province,TR
+80,,LV
+80,Vysočina,CZ
+80,Subcarpathian Voivodeship,PL
+81,Raionul Ocniţa,MD
+81,Karlovarský Kraj,CZ
+81,,TR
+81,,LV
+81,Hưng Yên,VN
+81,Dhaka,BD
+81,Muta,SI
+81,Podlasie Voivodship,PL
+81,,TH
+81,Lacs,CI
+81,Uljanovsk,RU
+81,,LY
+82,,LY
+82,Nam Ðịnh,VN
+82,Lagunes,CI
+82,Pomeranian Voivodeship,PL
+82,Khulna,BD
+82,,LV
+82,Çankırı Province,TR
+82,Královéhradecký Kraj,CZ
+82,Raionul Orhei,MD
+82,Naklo,SI
+83,,LY
+83,Liberecký Kraj,CZ
+83,Nazarje,SI
+83,Rājshāhi,BD
+83,Silesian Voivodeship,PL
+83,Probištip,MK
+83,Phú Thọ,VN
+83,Gaziantep Province,TR
+83,Raionul Rezina,MD
+83,Vladimir,RU
+84,Nova Gorica,SI
+84,Świętokrzyskie Voivodship,PL
+84,Kars,TR
+84,Olomoucký Kraj,CZ
+84,Raionul Rîşcani,MD
+84,Radoviš,MK
+84,Chittagong,BD
+84,,LV
+84,Quảng Nam,VN
+84,Volgograd,RU
+84,,LY
+84,,FR
+85,Thái Nguyên,VN
+85,Moravskoslezský Kraj,CZ
+85,Barisāl,BD
+85,Opstina Rankovce,MK
+85,Raionul Sîngerei,MD
+85,Vologda,RU
+85,Warmian-Masurian Voivodeship,PL
+85,Zonguldak,TR
+86,Greater Poland Voivodeship,PL
+86,Odranci,SI
+86,Raionul Şoldăneşti,MD
+86,Ardahan Province,TR
+86,Voronezj,RU
+86,Pardubický Kraj,CZ
+86,Resen,MK
+86,Vĩnh Phúc,VN
+86,Sylhet,BD
+87,Yamalo-Nenetskiy Avtonomnyy Okrug,RU
+87,Ormož,SI
+87,,LV
+87,,VN
+87,West Pomeranian Voivodeship,PL
+87,,BD
+87,Raionul Soroca,MD
+87,Rosoman,MK
+87,Plzeňský Kraj,CZ
+87,Bartın Province,TR
+87,Savanes,CI
+88,Iğdır Province,TR
+88,Osilnica,SI
+88,,LV
+88,Ştefan-Vodă,MD
+88,Středočeský Kraj,CZ
+88,,VN
+88,Jaroslavl,RU
+89,Sud-Comoé,CI
+89,Jewish Autonomous Oblast,RU
+89,Karabük,TR
+89,Ústecký Kraj,CZ
+89,Raionul Străşeni,MD
+89,,VN
+89,Pesnica,SI
+8989934,,GG
+90,Raionul Taraclia,MD
+90,Permskiy Kray,RU
+90,Saraj,MK
+90,Zlínský Kraj,CZ
+90,,VN
+90,Vallée du Bandama,CI
+90,,LV
+90,Kilis Province,TR
+91,,VN
+91,,RU
+91,,LV
+91,Raionul Teleneşti,MD
+91,Pivka,SI
+91,Osmaniye Province,TR
+92,Yalova Province,TR
+92,,RU
+92,,VN
+92,Sopište,MK
+92,Raionul Ungheni,MD
+92,Zanzan,CI
+92,Podčetrtek,SI
+93,Düzce,TR
+93,,FR
+93,,RU
+93,,VN
+93,,CI
+94,,FR
+94,Postojna,SI
+94,,CI
+94,,LV
+95,,LV
+95,,CI
+96,,LV
+96,,CI
+97,,CI
+97,Puconci,SI
+97,Staro Nagoričane,MK
+97,,LV
+97501,,PM
+97502,,PM
+97601,,YT
+97602,,YT
+97603,,YT
+97604,,YT
+97605,,YT
+97606,,YT
+97607,,YT
+97608,,YT
+97609,,YT
+97610,,YT
+97611,,YT
+97612,,YT
+97613,,YT
+97614,,YT
+97615,,YT
+97616,,YT
+97617,,YT
+9782164,,IM
+9782165,,IM
+9782166,,IM
+9782167,,IM
+9782168,,IM
+9782169,,IM
+9782170,,IM
+9782172,,IM
+9782173,,IM
+9782176,,IM
+9782182,,IM
+9782183,,IM
+9782184,,IM
+9782185,,IM
+9782186,,IM
+9782187,,IM
+9782188,,IM
+9782189,,IM
+9782190,,IM
+9782191,,IM
+9782193,,IM
+98,Štip,MK
+98,,CI
+98,Rače-Fram,SI
+98,,LV
+98611,,WF
+98612,,WF
+98613,,WF
+99,,LV
+99,Radeče,SI
+A,,TK
+A1,Radenci,SI
+A2,Radlje ob Dravi,SI
+A2,Studeničani,MK
+A2,,LV
+A3,,LV
+A3,Radovljica,SI
+A3,Šuto Orizari,MK
+A4,Sveti Nikole,MK
+A4,,LV
+A5,,LV
+A5,Tearce,MK
+A6,Rogašovci,SI
+A6,,LV
+A7,Rogaška Slatina,SI
+A8,,LV
+A8,Rogatec,SI
+A9,Vasilevo,MK
+A9,,LV
+AG,Aargau,CH
+AH,,GU
+AI,Appenzell Innerrhoden,CH
+AK,Alaska,US
+AL,Alabama,US
+AL,,TL
+AN,,GU
+AN,,TL
+AR,Arkansas,US
+AR,,CU
+AR,Appenzell Ausserrhoden,CH
+AS,,GU
+AT,,GU
+AZ,Arizona,US
+B,,GN
+B1,Semič,SI
+B1,,LV
+B2,Šenčur,SI
+B2,Velešta,MK
+B3,Vevčani,MK
+B3,,LV
+B3,Šentilj,SI
+B4,Vinica,MK
+B4,Šentjernej,SI
+B4,,LV
+B5,,LV
+B6,Sevnica,SI
+B6,,LV
+B7,Sežana,SI
+B7,,LV
+B7,Vrapčište,MK
+B8,Vratnica,MK
+B8,,LV
+B8,Škocjan,SI
+B9,Škofja Loka,SI
+B9,,LV
+BA,,GU
+BA,,TL
+BE,Bern,CH
+BL,Basel-Landschaft,CH
+BO,,TL
+BO,,BQ
+BRC,,BA
+BRU,Région de Bruxelles-Capitale,BE
+BS,Basel-Stadt,CH
+C,,IE
+C,,MW
+C,,UG
+C1,Škofljica,SI
+C1,,LV
+C2,Zelenikovo,MK
+C2,Slovenj Gradec,SI
+C2,,LV
+C3,Želino,MK
+C3,,LV
+C4,Slovenska Konjice,SI
+C5,Šmarje pri Jelšah,SI
+C5,,LV
+C6,,LV
+C6,Šmartno ob Paki,SI
+C6,Zrnovci,MK
+C7,,LV
+C7,Šoštanj,SI
+C7,,MK
+C8,,MK
+C8,Starše,SI
+C8,,LV
+C9,Štore,SI
+C9,,LV
+C9,,MK
+CA,California,US
+CA,,LU
+CE,,EH
+CE,,ES
+CHA,,TT
+CL,,LU
+CO,,TL
+CO,Colorado,US
+CP,,GU
+CR,,NP
+CT,Connecticut,US
+CTT,,TT
+D,,GN
+D1,Sveti Jurij,SI
+D1,,LV
+D2,,LV
+D2,Tolmin,SI
+D2,,MK
+D3,,LV
+D3,,MK
+D3,Trbovlje,SI
+D4,Trebnje,SI
+D4,,MK
+D5,,LV
+D5,,MK
+D5,Tržič,SI
+D6,Turnišče,SI
+D6,,MK
+D7,,MK
+D7,Velenje,SI
+D7,,LV
+D8,Velike Lašče,SI
+D8,,MK
+D9,,MK
+DC,District of Columbia,US
+DD,,GU
+DE,Delaware,US
+DI,,LU
+DI,,TL
+DMN,,TT
+E,,UG
+E1,,LV
+E1,,MK
+E1,Vipava,SI
+E2,Vitanje,SI
+E2,,LV
+E2,,MK
+E3,,LV
+E3,Vodice,SI
+E3,,MK
+E4,,MK
+E4,,LV
+E5,Vrhnika,SI
+E5,,MK
+E6,,LV
+E6,,MK
+E6,Vuzenica,SI
+E7,Zagorje ob Savi,SI
+E7,Auckland,NZ
+E7,,LV
+E7,,MK
+E8,,MK
+E8,,LV
+E8,Bay of Plenty,NZ
+E9,Canterbury,NZ
+E9,,LV
+E9,Zavrč,SI
+E9,,MK
+EC,,LU
+EH,,MA
+ENG,England,GB
+ER,,TL
+ER,,NP
+ES,,LU
+ESYE11,,GR
+ESYE12,,GR
+ESYE13,,GR
+ESYE14,,GR
+ESYE21,,GR
+ESYE22,,GR
+ESYE23,,GR
+ESYE24,,GR
+ESYE25,,GR
+ESYE31,,GR
+ESYE41,,GR
+ESYE42,,GR
+ESYE43,,GR
+ETO,,TT
+EU,,TO
+F,,GN
+F,,TK
+F1,,LV
+F1,Gisborne,NZ
+F1,Železniki,SI
+F1,,MK
+F2,Žiri,SI
+F2,Hawkes Bay,NZ
+F3,Zreče,SI
+F3,Wanganui,NZ
+F4,Benedikt,SI
+F4,,MK
+F4,Marlborough,NZ
+F5,,MK
+F5,Nelson,NZ
+F5,Bistrica ob Sotli,SI
+F6,Whangarei,NZ
+F6,Bloke,SI
+F7,Otago,NZ
+F7,Braslovče,SI
+F8,Cankova,SI
+F8,Southland,NZ
+F9,Taranaki,NZ
+F9,Cerkvenjak,SI
+FL,Florida,US
+FR,Fribourg,CH
+FR,,NP
+FUN,,TV
+G1,Destrnik,SI
+G1,Waikato,NZ
+G2,Dobje,SI
+G2,Wellington,NZ
+G3,Dobrna,SI
+G3,West Coast,NZ
+G4,Dobrova-Horjul-Polhov Gradec,SI
+G5,Dobrovnik-Dobronak,SI
+G6,Dolenjske Toplice,SI
+G7,Domžale,SI
+G8,Grad,SI
+G9,Hajdina,SI
+GA,Georgia,US
+GE,Genève,CH
+GF,Guyane,GF
+GL,Glarus,CH
+GP,Région Guadeloupe,GP
+GR,Graubünden,CH
+GR,,LU
+GZ,Gaza Strip,PS
+H,,BD
+H1,Hoče-Slivnica,SI
+H2,Hodoš-Hodos,SI
+H3,Horjul,SI
+H4,Jesenice,SI
+H5,Jezersko,SI
+H6,Kamnik,SI
+H7,Kočevje,SI
+H8,Komenda,SI
+H9,Kostel,SI
+HCW,,HK
+HI,Hawaii,US
+HWC,,HK
+I1,Križevci,SI
+I2,Kuzma,SI
+I3,Lenart,SI
+I4,Lendava-Lendva,SI
+I5,Litija,SI
+I6,Ljutomer,SI
+I7,Loška Dolina,SI
+I8,Lovrenc na Pohorju,SI
+I9,Luče,SI
+IA,Iowa,US
+ID,Idaho,US
+IL,Illinois,US
+IN,,GU
+IN,Indiana,US
+J1,Majšperk,SI
+J2,Maribor,SI
+J3,Markovci,SI
+J4,Miklavž na Dravskem Polju,SI
+J5,Miren-Kostanjevica,SI
+J6,Mirna Peč,SI
+J7,Novo Mesto,SI
+J8,Oplotnica,SI
+J9,Piran-Pirano,SI
+JU,Jura,CH
+K,,GN
+K1,Podlehnik,SI
+K2,Podvelka,SI
+K3,Polzela,SI
+K4,Prebold,SI
+K5,Preddvor,SI
+K6,Prevalje,SI
+K7,Ptuj,SI
+K8,Ravne na Koroškem,SI
+K9,Razkrižje,SI
+KKC,,HK
+KS,Kansas,US
+KSS,,HK
+KWT,,HK
+KY,Kentucky,US
+L,,IE
+L,,GN
+L1,Ribnica,SI
+L2,Ribnica na Pohorju,SI
+L3,Ruše,SI
+L4,Šalovci,SI
+L5,Selnica ob Dravi,SI
+L6,Šempeter-Vrtojba,SI
+L7,Šentjur pri Celju,SI
+L8,Slovenska Bistrica,SI
+L9,Šmartno pri Litiji,SI
+LA,Louisiana,US
+LA,,TL
+LI,,TL
+LMA,,PE
+LU,Luzern,CH
+LU,,LU
+M,,GN
+M,,IE
+M1,Sodražica,SI
+M2,Solčava,SI
+M3,Sveta Ana,SI
+M4,Sveti Andraž v Slovenskih Goricah,SI
+M5,Tabor,SI
+M6,Tišina,SI
+M7,Trnovska Vas,SI
+M8,Trzin,SI
+M9,Velika Polana,SI
+MA,Massachusetts,US
+MA,,GU
+MA,,CU
+MD,Maryland,US
+ME,,LU
+ME,Maine,US
+ME,,GU
+MF,,TL
+MI,Michigan,US
+ML,,ES
+MN,Minnesota,US
+MO,Missouri,US
+MQ,Région Martinique,MQ
+MR,,NP
+MS,Mississippi,US
+MT,,TL
+MT,,GU
+MT,Montana,US
+N,,TK
+N,,MW
+N,,GN
+N,,UG
+N1,Veržej,SI
+N2,Videm,SI
+N3,Vojnik,SI
+N4,Vransko,SI
+N5,Žalec,SI
+N6,Žetale,SI
+N7,Žirovnica,SI
+N8,Žužemberk,SI
+N9,,SI
+NC,North Carolina,US
+NCR,,PH
+ND,North Dakota,US
+NE,Neuchâtel,CH
+NE,Nebraska,US
+NH,New Hampshire,US
+NI,,TO
+NIR,Northern Ireland,GB
+NIR,,PH
+NIS,,HK
+NIT,,TV
+NJ,New Jersey,US
+NKC,,MR
+NKF,,TV
+NM,New Mexico,US
+NMG,,TV
+NO,,FO
+NSK,,HK
+NST,,HK
+NTM,,HK
+NTP,,HK
+NTW,,HK
+NUI,,TV
+NV,Nevada,US
+NW,Nidwalden,CH
+NY,New York,US
+NYL,,HK
+O1,,SI
+O2,,SI
+O3,,SI
+O4,,SI
+O5,,SI
+O6,,SI
+O7,,SI
+O8,,SI
+O9,,SI
+OE,,TL
+OH,Ohio,US
+OK,Oklahoma,US
+OR,Oregon,US
+OS,,FO
+OW,Obwalden,CH
+P1,,SI
+P2,,SI
+P3,,SI
+P4,,SI
+P5,,SI
+P6,,SI
+P7,,SI
+P8,,SI
+P9,,SI
+PA,Pennsylvania,US
+PED,,TT
+PI,,GU
+PRT,,TT
+PTF,,TT
+RD,,LU
+RE,Région Réunion,RE
+RI,Rhode Island,US
+RM,,LU
+RR,Region of Republican Subordination,TJ
+S,,MW
+SA,,FO
+SB,,BQ
+SC,South Carolina,US
+SCT,Scotland,GB
+SD,South Dakota,US
+SE,,BQ
+SE,,RS
+SG,Kanton St. Gallen,CH
+SGE,,TT
+SH,Schaffhausen,CH
+SIP,,TT
+SJ,,GU
+SJL,,TT
+SO,Solothurn,CH
+SR,,GU
+ST,,FO
+SU,,FO
+SZ,Schwyz,CH
+TAS,,NZ
+TF,,GU
+TG,Thurgau,CH
+TI,Ticino,CH
+TM,,GU
+TN,Tennessee,US
+TUP,,TT
+TX,Texas,US
+U,,IE
+UM,,GU
+UR,Uri,CH
+UT,Utah,US
+VA,Virginia,US
+VAI,,TV
+VD,Vaud,CH
+VD,,LU
+VG,,FO
+VI,,TL
+VLG,Flanders,BE
+VO,,RS
+VS,Valais,CH
+VT,Vermont,US
+W,,UG
+WA,Washington,US
+WAL,Wallonia,BE
+WE,West Bank,PS
+WI,,LU
+WI,Wisconsin,US
+WLS,Wales,GB
+WR,,NP
+WV,West Virginia,US
+WY,Wyoming,US
+YG,,GU
+YN,,GU
+ZG,Zug,CH
+ZH,Zürich,CH
