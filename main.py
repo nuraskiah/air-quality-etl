@@ -2,6 +2,8 @@ import os
 from dotenv import load_dotenv
 import requests
 import pandas as pd
+from google.cloud import bigquery
+from google.oauth2 import service_account
 
 load_dotenv()
 
@@ -40,6 +42,12 @@ def extract():
 def transform():
     return
 
+def load():
+    credential = service_account.Credentials.from_service_account_file('credentials.json')
+    client = bigquery.Client(
+        credentials=credential,
+        project=credential.project_id,
+    )
 
 if __name__ == '__main__':
     extract()
