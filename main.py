@@ -10,13 +10,13 @@ API_KEY = os.getenv('API_KEY')
 
 def get_states():
     states = ['Jakarta Raya', 'Central Java', 'East Java', 'West Java', 'Yogyakarta']
-    df_state = pd.read_csv('./states.csv')
+    df_state = pd.read_csv('./data/states.csv')
     df_state = df_state.loc[df_state['state_name'].isin(states)]
 
     return df_state.to_dict('records')
 
 def get_cities(states):
-    df_city = pd.read_csv('./cities_20000.csv')
+    df_city = pd.read_csv('./data/cities_20000.csv')
     df_city = df_city[df_city['country_full'] == 'Indonesia']
     df_city = df_city.loc[df_city['state_code'].isin(states)]
 
