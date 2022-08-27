@@ -12,6 +12,7 @@ load_dotenv()
 
 API_KEY = os.getenv('API_KEY')
 BASE_URL = 'https://api.weatherbit.io/v2.0/history/airquality'
+DATASET_ID = os.getenv('DATASET_ID')
 
 def get_states():
     states = ['Jakarta Raya', 'Central Java', 'East Java', 'West Java', 'Yogyakarta']
@@ -21,23 +22,26 @@ def get_states():
     return df_state.to_dict('records')
 
 def get_cities(states):
+    state_codes = [state['state_code'] for state in states]
+
     df_city = pd.read_csv('./data/cities_20000.csv')
     df_city = df_city[df_city['country_full'] == 'Indonesia']
-    df_city = df_city.loc[df_city['state_code'].isin(states)]
+    df_city = df_city.loc[df_city['state_code'].isin(state_codes)]
 
     return df_city.to_dict('records')
 
-def fetch(cities):
+def fetch(cities, start_date, end_date):
     for city in cities:
-        res = requests.get(f'{BASE_URL}?city_id={city}&start_date=2022-08-19&end_date=2022-08-25&key={API_KEY}')
-        yield res.json()
+        res = requests.get(f'{BASE_URL}?city_id={city["city_id"]}&start_date={start_date}&end_date={end_date}&key={API_KEY}')
+        res = res.json()
+        res['city_id'] = city['city_id']
+        yield res
 
 def extract():
     states = get_states()
-    state_codes = [state['state_code'] for state in states]
-    cities = get_cities(state_codes)
-    city_ids = [city['city_id'] for city in cities]
-    aq_data = fetch(city_ids)
+    cities = get_cities(states)
+    aq_data = fetch(cities, '2022-08-24', '2022-08-25')
+
     return states, cities, aq_data
 
 def transform(raw_data, key):
@@ -49,10 +53,12 @@ def transform(raw_data, key):
         }
 
 def load(table_id, data):
+    project_id = credential.project_id
+
     credential = service_account.Credentials.from_service_account_file('credentials.json')
     client = bigquery.Client(
         credentials=credential,
-        project=credential.project_id,
+        project=project_id,
     )
     
     schema = [
@@ -61,10 +67,12 @@ def load(table_id, data):
         bigquery.SchemaField("input_time", "DATETIME", mode="NULLABLE"),
     ]
     
-    table = bigquery.Table('binar-bie7.'+table_id, schema=schema)
-    client.create_table(table, exists_ok=True)
+    table_ref = f'{project_id}.{DATASET_ID}.{table_id}'
+    
+    table = bigquery.Table(table_ref, schema=schema)
+    table = client.create_table(table, exists_ok=True)
 
-    client.insert_rows_json(table_id, data)
+    client.insert_rows_json(table, data)
     
     print("Berhasil")
 
@@ -74,5 +82,5 @@ if __name__ == '__main__':
     fix_city = transform(cities, 'city_id')
     fix_data = transform(aq_data)
 
-    # load('kelompok_4_stg.raw_states', fix_state)
-    # load('kelompok_4_stg.raw_cities', fix_city)
+    load('raw_states', fix_state)
+    load('raw_cities', fix_city)
