@@ -13,12 +13,14 @@ def get_states():
     df_state = pd.read_csv('./states.csv')
     df_state = df_state.loc[df_state['state_name'].isin(states)]
 
-def get_cities():
+    return df_state.to_dict('records')
+
+def get_cities(states):
     df_city = pd.read_csv('./cities_20000.csv')
     df_city = df_city[df_city['country_full'] == 'Indonesia']
-    df_city = df_city.loc[df_city['state_code'].isin(['4','7','8','10','30'])]
+    df_city = df_city.loc[df_city['state_code'].isin(states)]
 
-    return df_city
+    return df_city.to_dict('records')
 
 def fetch(cities):
     for city in cities:
@@ -26,16 +28,18 @@ def fetch(cities):
         yield res.json()
 
 def extract():
-    cities = get_cities()
-    city_ids = cities['city_id'].values
+    states = get_states()
+    state_codes = [state['state_code'] for state in states]
+    cities = get_cities(state_codes)
+    city_ids = [city['city_id'] for city in cities]
+
     # aq_data = fetch(city_ids)
 
-    transform(cities)
+    # transform(cities)
 
 def transform():
     return
 
 
 if __name__ == '__main__':
-    print(API_KEY)
-    print('hehe')
+    extract()
