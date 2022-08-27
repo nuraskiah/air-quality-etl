@@ -1,14 +1,17 @@
+from datetime import datetime
+import json
 import os
 from dotenv import load_dotenv
 import requests
 import pandas as pd
+import hashlib
 from google.cloud import bigquery
 from google.oauth2 import service_account
 
 load_dotenv()
 
-BASE_URL = 'https://api.weatherbit.io/v2.0/history/airquality'
 API_KEY = os.getenv('API_KEY')
+BASE_URL = 'https://api.weatherbit.io/v2.0/history/airquality'
 
 def get_states():
     states = ['Jakarta Raya', 'Central Java', 'East Java', 'West Java', 'Yogyakarta']
@@ -34,20 +37,42 @@ def extract():
     state_codes = [state['state_code'] for state in states]
     cities = get_cities(state_codes)
     city_ids = [city['city_id'] for city in cities]
+    aq_data = fetch(city_ids)
+    return states, cities, aq_data
 
-    # aq_data = fetch(city_ids)
+def transform(raw_data, key):
+    for data in raw_data:
+        yield {
+            'super_key': hashlib.md5(str(data[key]).encode()).hexdigest(),
+            'raw_data': json.dumps(data),
+            'input_time': datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+        }
 
-    # transform(cities)
-
-def transform():
-    return
-
-def load():
+def load(table_id, data):
     credential = service_account.Credentials.from_service_account_file('credentials.json')
     client = bigquery.Client(
         credentials=credential,
         project=credential.project_id,
     )
+    
+    schema = [
+        bigquery.SchemaField("super_key", "STRING", mode="REQUIRED"),
+        bigquery.SchemaField("raw_data", "STRING", mode="NULLABLE"),
+        bigquery.SchemaField("input_time", "DATETIME", mode="NULLABLE"),
+    ]
+    
+    table = bigquery.Table('binar-bie7.'+table_id, schema=schema)
+    client.create_table(table, exists_ok=True)
+
+    client.insert_rows_json(table_id, data)
+    
+    print("Berhasil")
 
 if __name__ == '__main__':
-    extract()
+    states, cities, aq_data = extract()
+    fix_state = transform(states, 'state_code')
+    fix_city = transform(cities, 'city_id')
+    fix_data = transform(aq_data)
+
+    # load('kelompok_4_stg.raw_states', fix_state)
+    # load('kelompok_4_stg.raw_cities', fix_city)
