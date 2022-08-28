@@ -53,9 +53,8 @@ def transform(raw_data, key):
         }
 
 def load(table_id, data):
-    project_id = credential.project_id
-
     credential = service_account.Credentials.from_service_account_file('credentials.json')
+    project_id = credential.project_id
     client = bigquery.Client(
         credentials=credential,
         project=project_id,
@@ -80,7 +79,8 @@ if __name__ == '__main__':
     states, cities, aq_data = extract()
     fix_state = transform(states, 'state_code')
     fix_city = transform(cities, 'city_id')
-    fix_data = transform(aq_data)
+    fix_data = transform(aq_data, 'city_id')
 
     load('raw_states', fix_state)
     load('raw_cities', fix_city)
+    load('raw_data', fix_data)
