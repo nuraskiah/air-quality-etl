@@ -1,10 +1,10 @@
-from datetime import datetime
-import json
 import os
-from dotenv import load_dotenv
+import json
+import hashlib
 import requests
 import pandas as pd
-import hashlib
+from dotenv import load_dotenv
+from datetime import datetime
 from google.cloud import bigquery
 from google.oauth2 import service_account
 
@@ -104,7 +104,7 @@ if __name__ == '__main__':
     fix_data = transform(aq_data, 'city_id')
     fix_breakpoints = transform(breakpoints, 'id')
 
-    load('raw_states', fix_state)
-    load('raw_cities', fix_city)
-    load('raw_air_qualities', fix_data)
-    load('raw_breakpoints', fix_breakpoints)
+    load('raw_states', list(fix_state))
+    load('raw_cities', list(fix_city))
+    load('raw_air_qualities', list(fix_data))
+    load('raw_breakpoints', list(fix_breakpoints))
