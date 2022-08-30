@@ -1,0 +1,43 @@
+Parameter Name,Parameter Formula,Duration,Category,Low Breakpoint,High Breakpoint,Unit
+Air Quality Index,aqi,1,Good,0,50,
+Air Quality Index,aqi,1,Moderate,51,100,
+Air Quality Index,aqi,1,Unhealthy for Sensitive,101,150,
+Air Quality Index,aqi,1,Unhealthy,151,200,
+Air Quality Index,aqi,1,Very Unhealthy,201,300,
+Air Quality Index,aqi,1,Hazardous,301,9999,
+Particulate Matter 10 Microns,pm10,24,Good,0,55,ug/m3
+Particulate Matter 10 Microns,pm10,24,Moderate,56,155,ug/m3
+Particulate Matter 10 Microns,pm10,24,Unhealthy for Sensitive,156,255,ug/m3
+Particulate Matter 10 Microns,pm10,24,Unhealthy,256,355,ug/m3
+Particulate Matter 10 Microns,pm10,24,Very Unhealthy,356,425,ug/m3
+Particulate Matter 10 Microns,pm10,24,Hazardous,426,9999,ug/m3
+Particulate Matter 2.5 Microns,pm25,24,Good,0,15,ug/m3
+Particulate Matter 2.5 Microns,pm25,24,Moderate,16,35,ug/m3
+Particulate Matter 2.5 Microns,pm25,24,Unhealthy for Sensitive,36,55,ug/m3
+Particulate Matter 2.5 Microns,pm25,24,Unhealthy,56,150,ug/m3
+Particulate Matter 2.5 Microns,pm25,24,Very Unhealthy,151,250,ug/m3
+Particulate Matter 2.5 Microns,pm25,24,Hazardous,250,9999,ug/m3
+Nitrogen Dioxide,no2,1,Good,0,100,ug/m3
+Nitrogen Dioxide,no2,1,Moderate,101,190,ug/m3
+Nitrogen Dioxide,no2,1,Unhealthy for Sensitive,191,680,ug/m3
+Nitrogen Dioxide,no2,1,Unhealthy,681,1220,ug/m3
+Nitrogen Dioxide,no2,1,Very Unhealthy,1221,2350,ug/m3
+Nitrogen Dioxide,no2,1,Hazardous,2351,9999,ug/m3
+Ozone,o3,8,Good,0,120,ug/m3
+Ozone,o3,8,Moderate,121,150,ug/m3
+Ozone,o3,8,Unhealthy for Sensitive,151,190,ug/m3
+Ozone,o3,8,Unhealthy,191,230,ug/m3
+Ozone,o3,8,Very Unhealthy,231,750,ug/m3
+Ozone,o3,8,Hazardous,751,9999,ug/m3
+Carbon Monoxide,co,8,Good,0,5,ug/m3
+Carbon Monoxide,co,8,Moderate,6,11,ug/m3
+Carbon Monoxide,co,8,Unhealthy for Sensitive,12,14,ug/m3
+Carbon Monoxide,co,8,Unhealthy,15,18,ug/m3
+Carbon Monoxide,co,8,Very Unhealthy,19,35,ug/m3
+Carbon Monoxide,co,8,Hazardous,36,9999,ug/m3
+Sulphur Dioxide,so2,1,Good,0,95,ug/m3
+Sulphur Dioxide,so2,1,Moderate,96,200,ug/m3
+Sulphur Dioxide,so2,1,Unhealthy for Sensitive,201,485,ug/m3
+Sulphur Dioxide,so2,1,Unhealthy,486,795,ug/m3
+Sulphur Dioxide,so2,1,Very Unhealthy,796,1580,ug/m3
+Sulphur Dioxide,so2,1,Hazardous,1581,9999,ug/m3

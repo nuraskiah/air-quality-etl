@@ -30,19 +30,38 @@ def get_cities(states):
 
     return df_city.to_dict('records')
 
+def get_breakpoints():
+    df_breakpoints = pd.read_csv('./data/aqi_breakpoints.csv')
+    df_breakpoints.rename(columns={
+        'Parameter Name': 'parameter_name',
+        'Parameter Formula': 'parameter_formula',
+        'Duration': 'duration',
+        'Category': 'category',
+        'Low Breakpoint': 'low',
+        'High Breakpoint': 'high',
+        'Unit': 'unit',
+    }, inplace=True)
+
+    ids = list(map(lambda x: f'{x[1]}-{str(x[0]+1)}' , enumerate(df_breakpoints.parameter_formula.values)))
+    df_breakpoints.insert(0, 'id', ids, True)
+
+    return df_breakpoints.to_dict('records')
+
 def fetch(cities, start_date, end_date):
     for city in cities:
-        res = requests.get(f'{BASE_URL}?city_id={city["city_id"]}&start_date={start_date}&end_date={end_date}&key={API_KEY}')
-        res = res.json()
-        res['city_id'] = city['city_id']
-        yield res
+        endpoint = f'{BASE_URL}?city_id={city["city_id"]}&start_date={start_date}&end_date={end_date}&key={API_KEY}'
+        response = requests.get(endpoint)
+        response = response.json()
+        response['city_id'] = city['city_id']
+        yield response
 
 def extract():
     states = get_states()
     cities = get_cities(states)
-    aq_data = fetch(cities, '2022-08-24', '2022-08-25')
+    aq_data = fetch(cities, '2022-08-21', '2022-08-28')
+    breakpoints = get_breakpoints()
 
-    return states, cities, aq_data
+    return states, cities, aq_data, breakpoints
 
 def transform(raw_data, key):
     for data in raw_data:
@@ -71,16 +90,21 @@ def load(table_id, data):
     table = bigquery.Table(table_ref, schema=schema)
     table = client.create_table(table, exists_ok=True)
 
-    client.insert_rows_json(table, data)
-    
-    print("Berhasil")
+    errors = client.insert_rows_json(table, data)
+    if errors == []:
+        print(f'Data loaded to {table_id}. {str(len(list(data)))} rows have been added.')
+    else:
+        print('Encountered errors while inserting rows: {}'.format(errors))
 
 if __name__ == '__main__':
-    states, cities, aq_data = extract()
+    states, cities, aq_data, breakpoints = extract()
+
     fix_state = transform(states, 'state_code')
     fix_city = transform(cities, 'city_id')
     fix_data = transform(aq_data, 'city_id')
+    fix_breakpoints = transform(breakpoints, 'id')
 
     load('raw_states', fix_state)
     load('raw_cities', fix_city)
-    load('raw_data', fix_data)
+    load('raw_air_qualities', fix_data)
+    load('raw_breakpoints', fix_breakpoints)
