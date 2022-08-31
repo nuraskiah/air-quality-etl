@@ -29,12 +29,12 @@ Ozone,o3,8,Unhealthy for Sensitive,151,190,ug/m3
 Ozone,o3,8,Unhealthy,191,230,ug/m3
 Ozone,o3,8,Very Unhealthy,231,750,ug/m3
 Ozone,o3,8,Hazardous,751,9999,ug/m3
-Carbon Monoxide,co,8,Good,0,5,ug/m3
-Carbon Monoxide,co,8,Moderate,6,11,ug/m3
-Carbon Monoxide,co,8,Unhealthy for Sensitive,12,14,ug/m3
-Carbon Monoxide,co,8,Unhealthy,15,18,ug/m3
-Carbon Monoxide,co,8,Very Unhealthy,19,35,ug/m3
-Carbon Monoxide,co,8,Hazardous,36,9999,ug/m3
+Carbon Monoxide,co,8,Good,0,5,mg/m3
+Carbon Monoxide,co,8,Moderate,6,11,mg/m3
+Carbon Monoxide,co,8,Unhealthy for Sensitive,12,14,mg/m3
+Carbon Monoxide,co,8,Unhealthy,15,18,mg/m3
+Carbon Monoxide,co,8,Very Unhealthy,19,35,mg/m3
+Carbon Monoxide,co,8,Hazardous,36,9999,mg/m3
 Sulphur Dioxide,so2,1,Good,0,95,ug/m3
 Sulphur Dioxide,so2,1,Moderate,96,200,ug/m3
 Sulphur Dioxide,so2,1,Unhealthy for Sensitive,201,485,ug/m3
